@@ -4,4 +4,4 @@
 
 # Diremors Information Storage
 
-## [[Spells\|Spells]]
+## [[Infrastructure/Spells\|Spells]]
