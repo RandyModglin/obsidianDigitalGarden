@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/infrastructure/home/","tags":["gardenEntry"]}
 ---
 
-# Diremors Information Storage
+# Diremors Sage System
 
-## [[Infrastructure/Spells\|Spells]]
+# [[Infrastructure/Spells\|Spells]]
