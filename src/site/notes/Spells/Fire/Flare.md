@@ -19,7 +19,7 @@ Home Rules: None
 Notation:Hy-Bu-Tg-x0-Dm-xt
 Formula: Fire-Burn-Target-1-Damage-2
 
-Spell Effect: Deal 2d6 Fire Damage to a Target Creature. If the Creature is hit, they must save against your [[Misc/Glossaries/System Glossary#Spell DC\|Spell Condition DC]] or be [[Misc/Glossaries/Conditions Glossary#Burn\|Burned]].
+Spell Effect: Deal 2d6 Fire Damage to a Target Creature. If the Creature is hit, they must save against your [[Misc/Glossaries/System Glossary#Spell DC\|Spell DC]] or be [[Misc/Glossaries/Conditions Glossary#Burn\|Burned]].
 
 Cooldown:
 Fire (5): Damage(2) + Condition(2) + Targets(1) - Cha Mod - Wis Mod
