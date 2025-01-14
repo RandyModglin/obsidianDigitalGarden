@@ -4,9 +4,9 @@
 
 # Damage Spells
 
-## Single Target
+### Single Target
 
-## AOE
+### AOE
 
 ## Combined Spells
 

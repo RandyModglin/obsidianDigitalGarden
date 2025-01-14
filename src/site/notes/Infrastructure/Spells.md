@@ -10,7 +10,7 @@
 - ### [[Dark\|Dark]]
 - ### [[Disease\|Disease]]
 - ### [[Enhancement\|Enhancement]]
-- ### [[Spells/Categories/Fire\|Fire]]
+- ### [[Spells/Fire/Fire\|Fire]]
 - ### [[Ground\|Ground]]
 - ### [[Hate\|Hate]]
 - ### [[Holy\|Holy]]
