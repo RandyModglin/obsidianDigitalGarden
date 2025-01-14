@@ -8,11 +8,7 @@
 - ### [[Spells/Categories/Lightning\|Lightning]]
 - ### [[Spells/Categories/Water\|Water]]
 
-
-# Spells By Combined Type
+# Spells By Combined Type:
 
 
 # Spells By Function:
-
-
-### [[Infrastructure/Home\|Return Home]]

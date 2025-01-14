@@ -5,3 +5,4 @@
 # Diremors Sage System
 
 # [[Infrastructure/Spells\|Spells]]
+# [[Misc/Glossaries/Term Glossary\|Term Glossary]]
