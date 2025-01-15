@@ -66,7 +66,8 @@ The creature has disadvantage on Attacks against the thing that caused them to b
 The target becomes physically more resilient gaining X AC and X Physical Damage Reduction. Hardening a Weapon increases its damage by X.
 
 #### Helpless:
-
+The creature is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against the creature get a +4 bonus.
+As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. If the defender survives, he must make a (DC 10 + damage dealt) Constitution Saving Throw or die. Delivering a coup de grace provokes Attacks of Opportunity. Creatures that are immune to critical hits do not take critical damage, nor do they need to make Constitution saves to avoid being killed by a coup de grace.
 
 #### Lucky:
 The creature has Advantage on their next Attack Roll, Ability Check, or Saving Throw.
@@ -84,7 +85,7 @@ If a creature fails a save of this condition by 10 or more the creature gains a 
 The creature is too hot to exert itself. The creature loses 10ft of movement and takes 2 Untyped Damage every turn. The creature recovers from Overheat if it does not use its’ Movement Action for 2 turns.
 
 #### Panicked:
-The creature must actively move away from the thing that caused them to be Panicked. If they can't move away, they become Helpless.
+The creature must actively move away from the thing that caused them to be Panicked. If they can't move away, they become [[Misc/Glossaries/Conditions Glossary#Helpless\|Helpless]].
 
 #### Paralysis:
 The creature cant move or preform actions until they succeed a Fortitude save of 20
@@ -116,6 +117,9 @@ The creature loses 10x feet of movement.
 
 #### Spasms:
 When the creature goes to attack it does so with a -2 to hit. If the creature fails by 5 or more they attack a random surrounding square instead.
+
+#### Stunned:
+The creature drops everything held, can’t take actions, takes a –2 penalty to AC, and loses its Dexterity bonus to AC (if any).
 
 #### Suffocating:
 The creature takes 10x Unmitigated Untyped damage (x being how many rounds the creatures been suffocating).
