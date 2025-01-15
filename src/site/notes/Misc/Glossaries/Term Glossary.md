@@ -114,7 +114,7 @@
 - [[Monarchy\|Monarchy]] - Au
 - [[Monster\|Monster]] - Mr
 - [[Plant\|Plant]] - Na
-- [[Space\|Space]] - Ec
+- [[Spells/Pure Types/Space/Space\|Space]] - Ec
 - [[Sound\|Sound]] - So
 - [[Summon\|Summon]] - Sm
 - [[Time\|Time]] - Ar

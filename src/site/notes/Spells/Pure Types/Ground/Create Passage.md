@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/ground/create-passage/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/ground/create-passage/","tags":["Spell/Ground","Spell/Utility"]}
 ---
 
 ### Create Passage

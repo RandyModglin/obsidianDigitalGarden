@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/cold/greater-chill/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/cold/greater-chill/","tags":["Spell/Cold","Spell/Damage"]}
 ---
 
 ### Greater Chill Burst

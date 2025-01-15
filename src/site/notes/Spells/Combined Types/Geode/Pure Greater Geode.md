@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/combined-types/geode/pure-greater-geode/"}
+{"dg-publish":true,"permalink":"/spells/combined-types/geode/pure-greater-geode/","tags":["Spell/Damage","Spell/Ground","Spell/Light"]}
 ---
 
 ### Pure Greater Geode Burst

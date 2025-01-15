@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/fire/mega-flare/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/fire/mega-flare/","tags":["Spell/Fire","Spell/Damage"]}
 ---
 
 ### Mega Flare Strike

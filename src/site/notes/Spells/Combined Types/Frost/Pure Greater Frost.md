@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/combined-types/frost/pure-greater-frost/"}
+{"dg-publish":true,"permalink":"/spells/combined-types/frost/pure-greater-frost/","tags":["Spell/Damage","Spell/Cold","Spell/Water"]}
 ---
 
 ### Pure Greater Frost Burst

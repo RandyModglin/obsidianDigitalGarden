@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/cold/chill/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/cold/chill/","tags":["Spell/Damage","Spell/Cold"]}
 ---
 
 ### Chill Burst

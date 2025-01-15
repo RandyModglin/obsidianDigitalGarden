@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/fire/flare/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/fire/flare/","tags":["Spell/Fire","Spell/Damage"]}
 ---
 
 ### Flare Burst

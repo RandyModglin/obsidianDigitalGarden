@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/lightning/volt/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/lightning/volt/","tags":["Spell/Damage","Spell/Lightning"]}
 ---
 
 ### Volt Burst

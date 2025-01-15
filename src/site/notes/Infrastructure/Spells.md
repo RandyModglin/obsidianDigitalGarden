@@ -24,7 +24,7 @@
 - ### [[Monarchy\|Monarchy]]
 - ### [[Monster\|Monster]]
 - ### [[Plant\|Plant]]
-- ### [[Space\|Space]]
+- ### [[Spells/Pure Types/Space/Space\|Space]]
 - ### [[Sound\|Sound]]
 - ### [[Summon\|Summon]]
 - ### [[Time\|Time]]

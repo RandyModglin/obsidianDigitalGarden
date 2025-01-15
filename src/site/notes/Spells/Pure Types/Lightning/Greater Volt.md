@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/lightning/greater-volt/"}
+{"dg-publish":true,"permalink":"/spells/pure-types/lightning/greater-volt/","tags":["Spell/Damage","Spell/Lightning"]}
 ---
 
 ### Greater Volt Burst
