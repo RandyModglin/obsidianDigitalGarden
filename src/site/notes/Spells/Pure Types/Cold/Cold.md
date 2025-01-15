@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/spells/pure-types/cold/cold/"}
 ---
 
-# Damage Spells
+# Cold
+## Damage Spells
 
 ### Single Target
 - [[Spells/Pure Types/Cold/Chill#Chill Strike\|Chill Strike]]
@@ -10,10 +11,8 @@
 ### AOE
 - [[Spells/Pure Types/Cold/Chill#Chill Burst\|Chill Burst]]
 - [[Spells/Pure Types/Cold/Greater Chill#Greater Chill Burst\|Greater Chill Burst]]
-## Combined Spells
+## Enhancements
 
-# Enhancements
+## Summons and Structures
 
-# Summons and Structures
-
-# Utility
+## Utility

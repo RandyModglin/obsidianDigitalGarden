@@ -2,17 +2,15 @@
 {"dg-publish":true,"permalink":"/spells/combined-types/frost/frost/"}
 ---
 
-# Damage Spells
+# Frost: [[Spells/Pure Types/Cold/Cold\|Cold]] + [[Spells/Pure Types/Water/Water\|Water]]
+## Damage Spells
 
 ### Single Target
 
 ### AOE
 - [[Spells/Combined Types/Frost/Pure Greater Frost\|Pure Greater Frost Burst]]
+## Enhancements
 
-## Combined Spells
+## Summons and Structures
 
-# Enhancements
-
-# Summons and Structures
-
-# Utility
+## Utility

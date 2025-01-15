@@ -2,17 +2,19 @@
 {"dg-publish":true,"permalink":"/spells/pure-types/light/light/"}
 ---
 
-# Damage Spells
+# Light
+## Damage Spells
 
 ### Single Target
 
 ### AOE
 
-## Combined Spells
-
-# Enhancements
+## Enhancements
 - [[Spells/Pure Types/Light/Imbue Light\|Imbue Light]]
+## Summons and Structures
 
-# Summons and Structures
+## Utility
 
-# Utility
+- - -
+## Combined Types
+- [[Spells/Combined Types/Geode/Geode\|Geode]]: [[Spells/Pure Types/Ground/Ground\|Ground]] + Light

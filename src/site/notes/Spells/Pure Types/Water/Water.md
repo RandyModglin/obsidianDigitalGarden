@@ -2,16 +2,15 @@
 {"dg-publish":true,"permalink":"/spells/pure-types/water/water/"}
 ---
 
-# Damage Spells
+# Water
+## Damage Spells
 
 ### Single Target
 
 ### AOE
 
-## Combined Spells
+## Enhancements
 
-# Enhancements
+## Summons and Structures
 
-# Summons and Structures
-
-# Utility
+## Utility

@@ -2,19 +2,18 @@
 {"dg-publish":true,"permalink":"/spells/pure-types/ground/ground/"}
 ---
 
-# Damage Spells
+# Ground
+## Damage Spells
 
 ### Single Target
 
 ### AOE
 
-## Combined Spells
+## Enhancements
 
-# Enhancements
+## Summons and Structures
 
-# Summons and Structures
-
-# Utility
+## Utility
 - [[Spells/Pure Types/Ground/Create Passage\|Create Passage]]
 
 - - -
