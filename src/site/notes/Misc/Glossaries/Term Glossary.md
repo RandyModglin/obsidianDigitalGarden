@@ -96,7 +96,7 @@
 - Anti-Magic - Hm
 - [[Beast\|Beast]] - Go
 - [[Blood\|Blood]] - Pa
-- [[Spells/Categories/Cold\|Cold]] - My
+- [[Spells/Pure Types/Cold/Cold\|Cold]] - My
 - [[Dark\|Dark]] - Th
 - [[Disease\|Disease]] - Pe
 - Enhancement - Ml
@@ -107,7 +107,7 @@
 - [[Illusion\|Illusion]] - Il 
 - [[Knowledge\|Knowledge]] - Hi
 - [[Spells/Pure Types/Light/Light\|Light]] - Mi
-- [[Spells/Categories/Lightning\|Lightning]] - Lg
+- [[Spells/Pure Types/Lightning/Lightning\|Lightning]] - Lg
 - [[Life / Healing\|Life / Healing]] - Ta
 - Love - Em
 - [[Metal\|Metal]] - Mt
@@ -118,5 +118,5 @@
 - [[Sound\|Sound]] - So
 - [[Summon\|Summon]] - Sm
 - [[Time\|Time]] - Ar
-- [[Spells/Categories/Water\|Water]] - Li
+- [[Spells/Pure Types/Water/Water\|Water]] - Li
 - [[Weather\|Weather]] - Cl

@@ -7,7 +7,7 @@
 ### Single Target
 
 ### AOE
-- [[Spells/Combined Types/Geode/Pure Greater Geode Burst\|Pure Greater Geode Burst]]
+- [[Spells/Combined Types/Geode/Pure Greater Geode\|Pure Greater Geode Burst]]
 
 ## Combined Spells
 

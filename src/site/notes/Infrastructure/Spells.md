@@ -6,7 +6,7 @@
 - ### [[Acid\|Acid]]
 - ### [[Beast\|Beast]]
 - ### [[Blood \|Blood ]]
-- ### [[Spells/Categories/Cold\|Cold]]
+- ### [[Spells/Pure Types/Cold/Cold\|Cold]]
 - ### [[Dark\|Dark]]
 - ### [[Disease\|Disease]]
 - ### [[Enhancement\|Enhancement]]
@@ -17,7 +17,7 @@
 - ### [[Illusion\|Illusion]] 
 - ### [[Knowledge\|Knowledge]]
 - ### [[Spells/Pure Types/Light/Light\|Light]]
-- ### [[Spells/Categories/Lightning\|Lightning]]
+- ### [[Spells/Pure Types/Lightning/Lightning\|Lightning]]
 - ### [[Life\|Life]]
 - ### [[Love\|Love]]
 - ### [[Metal\|Metal]]
@@ -28,7 +28,7 @@
 - ### [[Sound\|Sound]]
 - ### [[Summon\|Summon]]
 - ### [[Time\|Time]]
-- ### [[Spells/Categories/Water\|Water]]
+- ### [[Spells/Pure Types/Water/Water\|Water]]
 - ### [[Weather\|Weather]]
 
 # Spells By Combined Type:
