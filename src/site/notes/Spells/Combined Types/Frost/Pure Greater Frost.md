@@ -10,7 +10,7 @@ Formula: [[Spells/Pure Types/Cold/Cold\|Cold]]-Enhancement-Area-Circle-30-Damage
 
 Spell Effect: 
 Deals 7d6 Magic (Water/Cold ) damage to Creatures within 10ft area circle : 
-- Pure Water damage: Creatures in the Area must make a Save or become infected with [[Misc/Glossaries/Infections Glossary#Blight\|Water Blight]]
+- Pure Water damage: Creatures in the Area must make a Save or become infected with [[Misc/Glossaries/Infections Glossary#Elemental Blight\|Water Blight]]
 - Pure Cold damage: Creatures in the Area must make a Save or become [[Misc/Glossaries/Conditions Glossary#Freeze\|Frozen]]: Freezing in this way causes the target to become [[Misc/Glossaries/Conditions Glossary#Brittle\|Brittle]] 
 - Mixed Damage: Creatures in the Area must make a Save or become [[Misc/Glossaries/Conditions Glossary#Freeze\|Frozen]]; Freezing in this way causes the Target to take 1d6 Water damage.
 
