@@ -105,7 +105,7 @@
 - Hate - Ra
 - [[Holy\|Holy]] - An
 - [[Illusion\|Illusion]] - Il 
-- [[Knowledge\|Knowledge]] - Hi
+- [[Spells/Pure Types/Knowledge/Knowledge\|Knowledge]] - Hi
 - [[Spells/Pure Types/Light/Light\|Light]] - Mi
 - [[Spells/Pure Types/Lightning/Lightning\|Lightning]] - Lg
 - [[Life / Healing\|Life / Healing]] - Ta
@@ -117,6 +117,6 @@
 - [[Spells/Pure Types/Space/Space\|Space]] - Ec
 - [[Sound\|Sound]] - So
 - [[Summon\|Summon]] - Sm
-- [[Time\|Time]] - Ar
+- [[Spells/Pure Types/Time/Time\|Time]] - Ar
 - [[Spells/Pure Types/Water/Water\|Water]] - Li
 - [[Weather\|Weather]] - Cl

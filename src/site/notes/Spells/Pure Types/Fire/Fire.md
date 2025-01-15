@@ -12,6 +12,7 @@
 ### AOE
 - [[Spells/Pure Types/Fire/Flare#Flare Burst\|Flare Burst]]
 - [[Spells/Pure Types/Fire/Flare#Greater Flare Burst\|Greater Flare Burst]]
+- [[Spells/Pure Types/Metal/Hemaphagy Flare#Hemaphagy Flare Burst\|Hemaphagy Flare Burst]]
 ## Enhancements
 
 ## Summons and Structures

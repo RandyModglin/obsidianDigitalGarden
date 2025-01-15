@@ -12,4 +12,4 @@ Result: ***Lingering***
 Create a blast of metallic shards dealing 2d6 Piercing Damage to all creatures and creating a field of metal shards in a 10 foot area. Creatures that end their turn in this field take 2d6 Piercing Damage.
 
 Cooldown:
-Metal: 3 - Damage(2) + Enhancement (1) - Wis Mod
+Metal (3): Damage(2) + Enhancement (1) - Wis Mod

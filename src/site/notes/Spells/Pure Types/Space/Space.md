@@ -15,3 +15,6 @@
 ## Summons and Structures
 
 ## Utility
+
+## Combined Types
+- [[Reality\|Reality]]: Space + [[Spells/Pure Types/Time/Time\|Time]]

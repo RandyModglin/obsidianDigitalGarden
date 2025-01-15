@@ -12,4 +12,4 @@ Spell Effect:
 User makes an Int roll against a charming/enthralling/ enslavement effect affecting a Target, if the users is higher, the charmed/thrall may regain some or all autonomy.
 
 Cooldown:
-Life (1): Conditions (1) + Targets - Cha Mod - Wis Mod
+Life (2): Conditions (1) + Targets(1) - Cha Mod - Wis Mod

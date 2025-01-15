@@ -16,4 +16,5 @@
 
 ## Utility
 - [[Spells/Pure Types/Life/Free Heart\|Free Heart]]
-- [[Spells/Pure Types/Life/Restore\|Restore]]
+- [[Spells/Pure Types/Life/Restore#Restore Burst\|Restore Burst]]
+- [[Spells/Pure Types/Life/Spoonful of Medicine\|Spoonful of Medicine]]

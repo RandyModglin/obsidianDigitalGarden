@@ -3,33 +3,18 @@
 ---
 
 # Spells By Type:
-- ### [[Acid\|Acid]]
-- ### [[Beast\|Beast]]
 - ### [[Blood \|Blood ]]
 - ### [[Spells/Pure Types/Cold/Cold\|Cold]]
-- ### [[Dark\|Dark]]
-- ### [[Disease\|Disease]]
-- ### [[Enhancement\|Enhancement]]
 - ### [[Spells/Pure Types/Fire/Fire\|Fire]]
 - ### [[Spells/Pure Types/Ground/Ground\|Ground]]
-- ### [[Hate\|Hate]]
-- ### [[Holy\|Holy]]
-- ### [[Illusion\|Illusion]] 
-- ### [[Knowledge\|Knowledge]]
+- ### [[Spells/Pure Types/Knowledge/Knowledge\|Knowledge]]
 - ### [[Spells/Pure Types/Light/Light\|Light]]
 - ### [[Spells/Pure Types/Lightning/Lightning\|Lightning]]
 - ### [[Spells/Pure Types/Life/Life\|Life]]
-- ### [[Love\|Love]]
 - ### [[Spells/Pure Types/Metal/Metal\|Metal]]
-- ### [[Monarchy\|Monarchy]]
-- ### [[Monster\|Monster]]
-- ### [[Plant\|Plant]]
 - ### [[Spells/Pure Types/Space/Space\|Space]]
-- ### [[Sound\|Sound]]
-- ### [[Summon\|Summon]]
-- ### [[Time\|Time]]
+- ### [[Spells/Pure Types/Time/Time\|Time]]
 - ### [[Spells/Pure Types/Water/Water\|Water]]
-- ### [[Weather\|Weather]]
 
 # Spells By Combined Type:
 - #### [[Spells/Combined Types/Frost/Frost\|Frost]] ([[Spells/Pure Types/Cold/Cold\|Cold]] + [[Spells/Pure Types/Water/Water\|Water]])

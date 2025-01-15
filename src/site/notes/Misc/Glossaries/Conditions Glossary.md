@@ -118,6 +118,9 @@ The creature loses 10x feet of movement.
 #### Spasms:
 When the creature goes to attack it does so with a -2 to hit. If the creature fails by 5 or more they attack a random surrounding square instead.
 
+#### Stasis:
+The creature is effectively unconscious and [[Misc/Glossaries/Conditions Glossary#Helpless\|Helpless]], every hit against a helpless creature is a automatic crit.
+
 #### Stunned:
 The creature drops everything held, can’t take actions, takes a –2 penalty to AC, and loses its Dexterity bonus to AC (if any).
 
