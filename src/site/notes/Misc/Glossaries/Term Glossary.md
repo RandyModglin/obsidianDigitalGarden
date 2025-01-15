@@ -110,7 +110,7 @@
 - [[Spells/Pure Types/Lightning/Lightning\|Lightning]] - Lg
 - [[Life / Healing\|Life / Healing]] - Ta
 - Love - Em
-- [[Metal\|Metal]] - Mt
+- [[Spells/Pure Types/Metal/Metal\|Metal]] - Mt
 - [[Monarchy\|Monarchy]] - Au
 - [[Monster\|Monster]] - Mr
 - [[Plant\|Plant]] - Na

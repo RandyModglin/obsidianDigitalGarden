@@ -14,3 +14,6 @@
 ## Summons and Structures
 
 ## Utility
+- [[Spells/Pure Types/Water/Multiply Moisture\|Multiply Moisture]]
+## Combined Types
+- [[Spells/Combined Types/Frost/Frost\|Frost]]: [[Spells/Pure Types/Cold/Cold\|Cold]] + Water
