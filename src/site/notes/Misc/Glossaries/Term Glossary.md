@@ -54,16 +54,13 @@
 - Between - Bn
 - Body - By
 - Cast - Ca
-- Change - Dp
 - Cook - Ck
 - Control - De
 - Copy - Cp
 - Combine - Ma
-- Create - Cr
 - Cute - Aw
 - Damage - Dm
 - Divide - Dv
-- Effect - Ef
 - Freedom - Si
 - Give - Gv
 - Increase - In
@@ -77,10 +74,13 @@
 - Reaction - Rc
 - Reduce - Ms
 - Sight - Me
-- Spell - Sx
-- Subtype - Sy
 - Temperature - Ho
 - Unknown - Uo
+
+## Spell Components
+- Effect - Ef
+- Spell - Sx
+- Subtype - Sy
 
 ## Targeting/Area
 - Area - Ae
@@ -96,7 +96,9 @@
 - Anti-Magic - Hm
 - [[Beast\|Beast]] - Go
 - [[Blood\|Blood]] - Pa
+- Change - Dp
 - [[Spells/Pure Types/Cold/Cold\|Cold]] - My
+- Create - Cr
 - [[Dark\|Dark]] - Th
 - [[Disease\|Disease]] - Pe
 - Enhancement - Ml

@@ -13,7 +13,7 @@
 - [[Spells/Pure Types/Space/Imbue Cosmos\|Imbue Cosmos]]
 
 ## Summons and Structures
-
+- [[Spells/Pure Types/Space/Toll Bridge#Toll Bridge; Payment Speed\|Toll Bridge; Payment Speed]]
 ## Utility
 
 ## Combined Types
