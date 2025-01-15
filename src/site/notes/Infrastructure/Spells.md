@@ -10,13 +10,13 @@
 - ### [[Dark\|Dark]]
 - ### [[Disease\|Disease]]
 - ### [[Enhancement\|Enhancement]]
-- ### [[Spells/Fire/Fire\|Fire]]
-- ### [[Spells/Ground/Ground\|Ground]]
+- ### [[Spells/Pure Types/Fire/Fire\|Fire]]
+- ### [[Spells/Pure Types/Ground/Ground\|Ground]]
 - ### [[Hate\|Hate]]
 - ### [[Holy\|Holy]]
 - ### [[Illusion\|Illusion]] 
 - ### [[Knowledge\|Knowledge]]
-- ### [[Light\|Light]]
+- ### [[Spells/Pure Types/Light/Light\|Light]]
 - ### [[Spells/Categories/Lightning\|Lightning]]
 - ### [[Life\|Life]]
 - ### [[Love\|Love]]
@@ -32,6 +32,4 @@
 - ### [[Weather\|Weather]]
 
 # Spells By Combined Type:
-
-
-# Spells By Function:
+- #### [[Spells/Combined Types/Geode/Geode\|Geode]] ([[Spells/Pure Types/Ground/Ground\|Ground]] + [[Spells/Pure Types/Light/Light\|Light]])
