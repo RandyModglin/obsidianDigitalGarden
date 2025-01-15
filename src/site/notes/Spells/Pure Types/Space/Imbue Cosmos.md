@@ -12,4 +12,4 @@ Result:
 Provide bubble of space around the target, prevents future targeted spells to affect the target. This Spell ends if the target takes Damage.
 
 Cooldown
-Space: 2 - Enhancement (1) + Targets(1) - Cha Mod - Wis Mod
+Space (2): Enhancement(1) + Targets(1) - Cha Mod - Wis Mod

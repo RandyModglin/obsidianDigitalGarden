@@ -8,9 +8,10 @@
 ### Single Target
 
 ### AOE
-- [[Spells/Combined Types/Frost/Pure Greater Frost\|Pure Greater Frost Burst]]
+- [[Spells/Combined Types/Frost/Pure Frost\|Pure Frost Burst]]
 ## Enhancements
-
+- [[Spells/Combined Types/Frost/Imbue Frost\|Imbue Frost]]
+- [[Spells/Combined Types/Frost/Imbue Pure Frost\|Imbue Pure Frost]]
 ## Summons and Structures
 
 ## Utility

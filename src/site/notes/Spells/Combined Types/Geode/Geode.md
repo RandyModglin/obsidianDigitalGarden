@@ -8,7 +8,7 @@
 ### Single Target
 
 ### AOE
-- [[Spells/Combined Types/Geode/Pure Greater Geode\|Pure Greater Geode Burst]]
+- [[Spells/Combined Types/Geode/Pure Geode\|Pure Geode Burst]]
 ## Enhancements
 
 ## Summons and Structures
