@@ -39,7 +39,7 @@ The creature takes 5x Fire Damage (x being the number of rounds the creature’s
 #### Charmed:
 Creature can not attack or target the source of their Charm with negative effects.
 
-#### Combustion:
+#### Combust:
 The next time the creature takes damage from a source of heat, they explode taking 2x damage (x being the amount of damage that triggered the effect). If the damage is 30 or greater, the creature is also [[Misc/Glossaries/Conditions Glossary#Burn\|Burned]].
 
 #### Dazed:

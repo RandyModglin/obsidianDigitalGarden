@@ -11,7 +11,7 @@
 - ### [[Disease\|Disease]]
 - ### [[Enhancement\|Enhancement]]
 - ### [[Spells/Fire/Fire\|Fire]]
-- ### [[Ground\|Ground]]
+- ### [[Spells/Ground/Ground\|Ground]]
 - ### [[Hate\|Hate]]
 - ### [[Holy\|Holy]]
 - ### [[Illusion\|Illusion]] 
