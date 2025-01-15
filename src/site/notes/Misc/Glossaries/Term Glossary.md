@@ -7,23 +7,23 @@
 - Turtle - Tu
 
 ## Conditions
-- Amnesia - As
+- [[Misc/Glossaries/Conditions Glossary#Amnesia\|Amnesia]] - As
 - Ataxia - Fa
-- Blood Rage - Br
-- Boon - Bo
-- Burn - Bu
-- Entangle - En
+- [[Misc/Glossaries/Conditions Glossary#Blood Raged\|Blood Raged]] - Br
+- [[Misc/Glossaries/Conditions Glossary#Boon X\|Boon]] - Bo
+- [[Misc/Glossaries/Conditions Glossary#Burn\|Burn]] - Bu
+- [[Misc/Glossaries/Conditions Glossary#Entangled\|Entangle]] - En
 - Fear - Fe
-- Frighten - Ft
-- Harden - Hd
-- Overheated - Oh
-- Regal - Rg
-- Restoration - Re
-- Sicken - Sk
-- Slow - Sl
-- Suffocate - Su
-- Sunder - Sd
-- Unlucky - Ul
+- [[Misc/Glossaries/Conditions Glossary#Frightened\|Frightened]] - Ft
+- [[Misc/Glossaries/Conditions Glossary#Hardened X\|Harden]] - Hd
+- [[Misc/Glossaries/Conditions Glossary#Overheated\|Overheated]] - Oh
+- [[Misc/Glossaries/Conditions Glossary#Regal\|Regal]]- Rg
+- [[Misc/Glossaries/Conditions Glossary#Restoration X\|Restoration]] - Re
+- [[Misc/Glossaries/Conditions Glossary#Sickened X\|Sicken]] - Sk
+- [[Misc/Glossaries/Conditions Glossary#Slowed X\|Slow]] - Sl
+- [[Misc/Glossaries/Conditions Glossary#Suffocating\|Suffocate]] - Su
+- [[Misc/Glossaries/Conditions Glossary#Sundered X\|Sunder]] - Sd
+- [[Misc/Glossaries/Conditions Glossary#Unlucky\|Unlucky]] - Ul
 
 ## Creations
 - Bow - Bw
@@ -51,7 +51,6 @@
 - 40 - xfx
 
 ## Miscellaneous 
-- Anti-Magic - Hm
 - Between - Bn
 - Body - By
 - Cast - Ca
@@ -93,30 +92,31 @@
 - Targeting - Tg
 
 ## Type
-- Acid - Ad
-- Beast - Go
-- Blood - Pa
-- Cold - My
-- Dark - Th
-- Disease - Pe
+- [[Acid\|Acid]] - Ad
+- Anti-Magic - Hm
+- [[Beast\|Beast]] - Go
+- [[Blood\|Blood]] - Pa
+- [[Spells/Categories/Cold\|Cold]] - My
+- [[Dark\|Dark]] - Th
+- [[Disease\|Disease]] - Pe
 - Enhancement - Ml
-- Fire - Hy
-- Ground - Gr
+- [[Spells/Pure Types/Fire/Fire\|Fire]] - Hy
+- [[Spells/Pure Types/Ground/Ground\|Ground]] - Gr
 - Hate - Ra
-- Holy - An
-- Illusion - Il 
-- Knowledge - Hi
-- Light - Mi
-- Lightning - Lg
-- Life / Healing - Ta
+- [[Holy\|Holy]] - An
+- [[Illusion\|Illusion]] - Il 
+- [[Knowledge\|Knowledge]] - Hi
+- [[Spells/Pure Types/Light/Light\|Light]] - Mi
+- [[Spells/Categories/Lightning\|Lightning]] - Lg
+- [[Life / Healing\|Life / Healing]] - Ta
 - Love - Em
-- Metal - Mt
-- Monarchy - Au
-- Monster - Mr
-- Plant - Na
-- Space - Ec
-- Sound - So
-- Summon - Sm
-- Time - Ar
-- Water - Li
-- Weather - Cl
+- [[Metal\|Metal]] - Mt
+- [[Monarchy\|Monarchy]] - Au
+- [[Monster\|Monster]] - Mr
+- [[Plant\|Plant]] - Na
+- [[Space\|Space]] - Ec
+- [[Sound\|Sound]] - So
+- [[Summon\|Summon]] - Sm
+- [[Time\|Time]] - Ar
+- [[Spells/Categories/Water\|Water]] - Li
+- [[Weather\|Weather]] - Cl
