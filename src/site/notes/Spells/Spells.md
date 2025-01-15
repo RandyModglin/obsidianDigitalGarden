@@ -3,7 +3,6 @@
 ---
 
 # Spells By Type:
-- ### [[Blood \|Blood ]]
 - ### [[Spells/Pure Types/Cold/Cold\|Cold]]
 - ### [[Spells/Pure Types/Fire/Fire\|Fire]]
 - ### [[Spells/Pure Types/Ground/Ground\|Ground]]
