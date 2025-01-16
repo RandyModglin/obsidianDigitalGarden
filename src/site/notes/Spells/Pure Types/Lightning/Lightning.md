@@ -16,3 +16,4 @@
 ## Summons and Structures
 
 ## Utility
+- [[Spells/Pure Types/Lightning/Null Volt\|Null Volt]]

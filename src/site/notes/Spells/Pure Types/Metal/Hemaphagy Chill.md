@@ -7,8 +7,8 @@
 #### V1: Stasis
 Home Rules: None
 
-Notation: Mt-Ml-Pa-Ae-Ci-x0x-Dm-xt-Ma-My-Ml-Sl-Ae-Ci-x0x-Dm-xt 
-Formula: [[Spells/Pure Types/Metal/Metal\|Metal]]-Enhancement-[[Blood\|Blood]]-Area-Circle-10-Damage-2-Combine-[[Spells/Pure Types/Cold/Cold\|Cold]]-Enhancement-Slow-Area-Circle-10-Damage-2
+Notation: Mt-Ml-Pa-Ae-Ci-x0x-Dm-xt-Ma-My-Ml-Fa-Ae-Ci-x0x-Dm-xt 
+Formula: [[Spells/Pure Types/Metal/Metal\|Metal]]-Enhancement-[[Blood\|Blood]]-Area-Circle-10-Damage-2-Combine-[[Spells/Pure Types/Cold/Cold\|Cold]]-Enhancement-Ataxia-Area-Circle-10-Damage-2
 
 Spell Effect:
 Creatures with blood in the area make a Constitution Save against your [[Misc/Glossaries/System Glossary#Spell DC\|Spell DC]], those that fail have the iron in the blood to bind together to form little flowing blades in the blood stream, taking 2d6 Unmitigated Slashing Damage and gaining [[Misc/Glossaries/Conditions Glossary#Bleed X\|Bleed 2]]. For every 5 under the save, the creature increases their Bleed value by 1. 
@@ -22,8 +22,8 @@ Metal (12): Damage (2) + Condition (4) + Enhancement (1) + Combine (5) - Wis Mod
 #### Version 2: Slowing
 Home Rules: None
 
-Notation: Mt-Ml-Pa-Ae-Ci-x0x-Dm-xt-Ma-My-Ml-Fa-xt-Ae-Ci-x0x-Dm-xt 
-Formula: [[Spells/Pure Types/Metal/Metal\|Metal]]-Enhancement-[[Blood\|Blood]]-Area-Circle-10-Damage-2-Combine-[[Spells/Pure Types/Cold/Cold\|Cold]]-Enhancement-Ataxia-Area-Circle-10-Damage-2
+Notation: Mt-Ml-Pa-Ae-Ci-x0x-Dm-xt-Ma-My-Ml-Sl-xt-Ae-Ci-x0x-Dm-xt 
+Formula: [[Spells/Pure Types/Metal/Metal\|Metal]]-Enhancement-[[Blood\|Blood]]-Area-Circle-10-Damage-2-Combine-[[Spells/Pure Types/Cold/Cold\|Cold]]-Enhancement-Slow-2-Area-Circle-10-Damage-2
 
 Result:
 Creatures with blood in the area make a Constitution Save against your [[Misc/Glossaries/System Glossary#Spell DC\|Spell DC]], those that fail have the iron in the blood to bind together to form little flowing blades in the blood stream, taking 2d6 Unmitigated Slashing Damage and gaining [[Misc/Glossaries/Conditions Glossary#Bleed X\|Bleed 2]]. For every 5 under the save, the creature increases their Bleed value by 1. 

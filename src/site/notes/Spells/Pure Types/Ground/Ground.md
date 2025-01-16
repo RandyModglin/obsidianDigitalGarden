@@ -18,4 +18,4 @@
 
 - - -
 ## Combined Types
-- [[Spells/Combined Types/Geode/Geode\|Geode]]: Ground + [[Spells/Pure Types/Light/Light\|Light]]
+- [[Spells/Combined Types/Geode/Crystal\|Crystal]]: Ground + [[Spells/Pure Types/Light/Light\|Light]]

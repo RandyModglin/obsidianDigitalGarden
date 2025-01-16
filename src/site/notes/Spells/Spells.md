@@ -16,5 +16,5 @@
 - ### [[Spells/Pure Types/Water/Water\|Water]]
 
 # Spells By Combined Type:
-- #### [[Spells/Combined Types/Frost/Frost\|Frost]] ([[Spells/Pure Types/Cold/Cold\|Cold]] + [[Spells/Pure Types/Water/Water\|Water]])
-- #### [[Spells/Combined Types/Geode/Geode\|Geode]] ([[Spells/Pure Types/Ground/Ground\|Ground]] + [[Spells/Pure Types/Light/Light\|Light]])
+- #### [[Spells/Combined Types/Ice/Ice\|Ice]] ([[Spells/Pure Types/Cold/Cold\|Cold]] + [[Spells/Pure Types/Water/Water\|Water]])
+- #### [[Spells/Combined Types/Geode/Crystal\|Crystal]] ([[Spells/Pure Types/Ground/Ground\|Ground]] + [[Spells/Pure Types/Light/Light\|Light]])

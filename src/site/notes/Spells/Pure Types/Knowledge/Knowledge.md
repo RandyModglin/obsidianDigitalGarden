@@ -6,7 +6,7 @@
 ## Damage Spells
 
 ### Single Target
-
+- [[Spells/Pure Types/Knowledge/Scholar's Folly\|Scholar's Folly]]
 ### AOE
 
 ## Enhancements

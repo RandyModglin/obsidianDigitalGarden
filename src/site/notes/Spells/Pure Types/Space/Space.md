@@ -15,6 +15,7 @@
 ## Summons and Structures
 - [[Spells/Pure Types/Space/Toll Bridge#Toll Bridge; Payment Speed\|Toll Bridge; Payment Speed]]
 ## Utility
+- [[Cosmos Trail\|Cosmos Trail]]
 
 ## Combined Types
 - [[Reality\|Reality]]: Space + [[Spells/Pure Types/Time/Time\|Time]]
