@@ -16,4 +16,4 @@
 ## Utility
 - [[Spells/Pure Types/Time/Greased Lightning\|Greased Lightning]]
 ## Combined Types
-- [[Reality\|Reality]]: [[Spells/Pure Types/Space/Space\|Space]] + Time
+- [[Spells/Combined Types/Reality/Reality\|Reality]]: [[Spells/Pure Types/Space/Space\|Space]] + Time

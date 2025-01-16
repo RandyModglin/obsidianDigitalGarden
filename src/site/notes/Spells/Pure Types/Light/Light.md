@@ -17,4 +17,4 @@
 
 - - -
 ## Combined Types
-- [[Spells/Combined Types/Geode/Crystal\|Crystal]]: [[Spells/Pure Types/Ground/Ground\|Ground]] + Light
+- [[Spells/Combined Types/Crystal/Crystal\|Crystal]]: [[Spells/Pure Types/Ground/Ground\|Ground]] + Light
