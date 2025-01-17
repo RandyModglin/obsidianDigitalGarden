@@ -10,7 +10,7 @@
 ### AOE
 
 ## Enhancements
-- [[Spells/Pure Types/Water/Imbue Aquas\|Imbue Aquas]]
+- [[Spells/Pure Types/Water/Imbue Torrent\|Imbue Torrent]]
 ## Summons and Structures
 
 ## Utility

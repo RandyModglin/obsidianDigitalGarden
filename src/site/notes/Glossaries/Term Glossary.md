@@ -100,7 +100,7 @@
 - [[Spells/Pure Types/Cold/Cold\|Cold]] - My
 - Create - Cr
 - [[Dark\|Dark]] - Th
-- [[Disease\|Disease]] - Pe
+- [[Spells/Pure Types/Disease/Disease\|Disease]] - Pe
 - Enhancement - Ml
 - [[Spells/Pure Types/Fire/Fire\|Fire]] - Hy
 - [[Spells/Pure Types/Ground/Ground\|Ground]] - Gr
