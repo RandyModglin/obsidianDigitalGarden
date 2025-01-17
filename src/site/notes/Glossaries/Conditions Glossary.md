@@ -13,7 +13,7 @@ The creature subtracts X from their next Attack Roll, Ability Check, or Saving T
 #### Bind:
 The creature is in someway tied up. 
 If its a limb, the creature suffers as if the limb is [[Glossaries/Conditions Glossary#Disabled Limb\|Disabled]], however the creature may still make a Grapple Check to escape. 
-If the creature is completely bound; other creatures have Advantage on attacks against the bound creature, the bound creature loses it Dexterity bonus to AC, and is [[Glossaries/Conditions Glossary#Helpless\|Helpless]].
+If the creature is completely Bound; it is [[Glossaries/Conditions Glossary#Helpless\|Helpless]].
 
 #### Bleed X:
 The creature takes x Untyped Damage at the end of its’ turn. The Bleeding lasts until the creature is healed or restored.
@@ -119,7 +119,7 @@ The creature loses 10x feet of movement.
 When the creature goes to attack it does so with a -2 to hit. If the creature fails by 5 or more they attack a random surrounding square instead.
 
 #### Stasis:
-The creature is effectively unconscious and [[Glossaries/Conditions Glossary#Helpless\|Helpless]], every hit against a helpless creature is a automatic crit.
+The creature is unable to move, preserved in some manner and [[Glossaries/Conditions Glossary#Helpless\|Helpless]]. Creatures in stasis don't age, eat, or breathe but remain healthy and alive and stay that way until killed or removed from stasis
 
 #### Stunned:
 The creature drops everything held, can’t take actions, takes a –2 penalty to AC, and loses its Dexterity bonus to AC (if any).
