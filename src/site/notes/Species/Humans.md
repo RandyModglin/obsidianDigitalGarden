@@ -5,7 +5,7 @@
 The most prosperous and abundant species.
 
 - - -
-# Details
+# Humans
 
 ## Culture
 The most adaptable of the races that call [[Locations/The Home\|The Home]] their home, choosing to work as generalists capable of specializing in any field. This has allowed humans the ability to spread far and wide, capable of surviving in a wide number of environments.
@@ -15,7 +15,7 @@ In addition to their adaptivity, humans are also incredibly empathetic creatures
 ## Society
 The largest human society is an empire lead by twin queens, [[Alexia and Amber\|Alexia and Amber]]. 
 
-It is of note that the largest human civilization was functionally founded by [[Characters/Gods/Other Gods#Aurora\|Other Gods#Aurora]] a daughter of the goddess [[Characters/Gods/Seven Lights#Mori\|Seven Lights#Mori]], though humans as a whole had existed before [[Characters/Gods/Other Gods#Aurora\|Other Gods#Aurora]]‘s arrival.
+It is of note that the largest human civilization was functionally founded by [[Characters/Gods/Other Gods#Aurora\|Aurora]] a daughter of the goddess [[Characters/Gods/Seven Lights#Mori\|Mori]], though humans as a whole had existed before [[Characters/Gods/Other Gods#Aurora\|Aurora’s]] arrival.
 
 ## Diplomacy
 
