@@ -4,13 +4,13 @@
 
 ## Friends
 Future Foods Entrepreneur Elfie (Male ???)
-Future Food Assistant Sophie (Female Human)
+Future Food Assistant Sophie (Female [[Species/Humans\|Human]])
 Ya’ak (???)
 
 
 ## Random People
 ### Floor 1
-Wasteland Survivor Rosie (Female Human)
+Wasteland Survivor Rosie (Female [[Species/Humans\|Human]])
 1436, The Short One (Home Fairy)
 
 ### Floor 3
