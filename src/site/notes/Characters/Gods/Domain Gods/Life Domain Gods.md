@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/characters/gods/domain-gods/life-domain-gods/","tags":["Character/God"]}
 ---
 
-Gods created by the goddess [[Characters/Gods/Seven Lights#Mori\|Seven Lights#Mori]] to help watch over the living and make sure no soul goes uncollected.
+Gods created by the goddess [[Characters/Gods/Seven Lights#Mori\|Mori]] to help watch over the living and make sure no soul goes uncollected.
 - - -
 # Details
-[[Characters/Gods/Seven Lights#Mori\|Seven Lights#Mori]] is responsible for supplying and maintaining all life within [[Locations/The Home\|Home]]. Whenever one life ends, its’ soul is taken in and repurposed into a new life. While Mori has no real love for her creations, she sees it as the best way to honor her brother’s sacrifice. To that end, she created three gods to help her perpetuate the cycle.
+[[Characters/Gods/Seven Lights#Mori\|Mori]] is responsible for supplying and maintaining all life within [[Locations/The Home\|Home]]. Whenever one life ends, its’ soul is taken in and repurposed into a new life. While Mori has no real love for her creations, she sees it as the best way to honor her brother’s sacrifice. To that end, she created three gods to help her perpetuate the cycle.
 
 # Description
 
@@ -20,6 +20,6 @@ The Fate Weaver and one of the [[Characters/Gods/Domain Gods/Life Domain Gods\|L
 It is of note that Ara is a character with significance outside of the world of towers, being the player character of the creator of the original [[Lore/Previous Games/TowerMors\|TowerMors]], [[Characters/Players/Michael Mcshea\|Michael Mcshea]], from a different Dungeons and Dragons Game. Given that the plot of [[Lore/Previous Games/TowerMors\|TowerMors]] centered on the idea of [[Characters/Players/Michael Mcshea\|Michael]] and his friends being transported to a fantasy world he had created, it is unclear if Ara’s appearance here is a coincidence, or a symbol of something greater.
 
 ## Hymm
-The Hand of Death and one of the [[Characters/Gods/Domain Gods/Life Domain Gods\|Life Gods]], he is responsible for collecting the souls that Mehit see separate from their [[Glossaries/Lore Glossary#Crystal\|Lore Glossary#Crystal]] and returning them to [[Characters/Gods/Seven Lights#Mori\|Seven Lights#Mori]]. Despite the importance of his job however, he’s a bit of a lay about, loving nothing more than doing nothing.
+The Hand of Death and one of the [[Characters/Gods/Domain Gods/Life Domain Gods\|Life Gods]], he is responsible for collecting the souls that Mehit see separate from their [[Glossaries/Lore Glossary#Crystal\|Crystal]] and returning them to [[Characters/Gods/Seven Lights#Mori\|Mori]]. Despite the importance of his job however, he’s a bit of a lay about, loving nothing more than doing nothing.
 
 In addition to his normal responsibilities, he also ensures the other gods never kill each other. Though this to is a duty he has no interest in performing.
