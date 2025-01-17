@@ -5,6 +5,7 @@
 ## Friends
 Future Foods Entrepreneur Elfie (Male ???)
 Future Food Assistant Sophie (Female Human)
+Ya’ak (???)
 
 
 ## Random People
