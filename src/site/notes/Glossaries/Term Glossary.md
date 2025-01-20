@@ -110,7 +110,7 @@
 - [[Spells/Pure Types/Knowledge/Knowledge\|Knowledge]] - Hi
 - [[Spells/Pure Types/Light/Light\|Light]] - Mi
 - [[Spells/Pure Types/Lightning/Lightning\|Lightning]] - Lg
-- [[Life / Healing\|Life / Healing]] - Ta
+- [[Spells/Pure Types/Life/Life\|Life / Healing]] - Ta
 - Love - Em
 - [[Spells/Pure Types/Metal/Metal\|Metal]] - Mt
 - [[Monarchy\|Monarchy]] - Au
