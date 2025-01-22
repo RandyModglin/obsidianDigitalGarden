@@ -15,5 +15,6 @@
 
 ## Utility
 - [[Spells/Pure Types/Water/Multiply Moisture\|Multiply Moisture]]
+- [[Spells/Pure Types/Water/Remove Moisture\|Remove Moisture]]
 ## Combined Types
 - [[Spells/Combined Types/Ice/Ice\|Ice]]: [[Spells/Pure Types/Cold/Cold\|Cold]] + Water

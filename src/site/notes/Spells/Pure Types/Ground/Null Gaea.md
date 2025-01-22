@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/spells/pure-types/ground/null-gaea/","tags":["Spell/Ground","Spell/Anti-Magic"]}
+---
+
+### Null Volt
+Home Rule: None
+
+Formula: Hm-Ml-Gr-Tg-x0-Ae-Ci-xhx
+Formula: AntiMagic-Enhancement-[[Spells/Pure Types/Ground/Ground\|Ground]]-Target-One-Area-Circle-30
+
+Spell Effect:
+User picks a target, The ground within 30ft of the target disappears.
+
+Cooldown
+Ground (1): Enhancement(1) + Targets(1) - Cha Mod - Wis Mod

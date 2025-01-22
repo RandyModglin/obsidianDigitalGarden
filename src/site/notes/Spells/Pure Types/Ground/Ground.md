@@ -6,7 +6,7 @@
 ## Damage Spells
 
 ### Single Target
-
+- [[Spells/Pure Types/Ground/Gaea#Greater Gaea Strike\|Greater Gaea Strike]]
 ### AOE
 
 ## Enhancements
@@ -15,6 +15,8 @@
 
 ## Utility
 - [[Spells/Pure Types/Ground/Create Passage\|Create Passage]]
+- [[Spells/Pure Types/Ground/Erode Ground\|Erode Ground]]
+- [[Spells/Pure Types/Ground/Null Gaea\|Null Gaea]]
 
 - - -
 ## Combined Types
