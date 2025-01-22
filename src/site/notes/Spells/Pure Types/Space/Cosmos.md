@@ -9,7 +9,7 @@ Notation: Ec-Ml-Ae-Ci-xhx-Dm-x0
 Formula: [[Spells/Pure Types/Space/Space\|Space]]-Enhancement-Area-Circle-30-Damage-1
 
 Spell Effect: 
-Creatures with line of sight of the Spell's Area must make a Dexterity Save against your [[Glossaries/System Glossary#Spell DC\|Spell DC]] or be pulled towards the center of the area(5x where X is the amount failed by). Creatures in the area take1d6 Force Damage.
+Creatures with line of sight of the Spell's Area must make a Dexterity Save against your [[Glossaries/System Glossary#Spell DC\|Spell DC]] or be pulled towards the center of the area by 5 ft for every point they are under the Save. Creatures in the area take1d6 Force Damage.
 
 Cooldown: 
 Space (3): Damage(2) + Enhancement(1) - Wis Mod
@@ -21,7 +21,7 @@ Notation: Ec-Ml-Tg-x0-Dm-xt
 Formula: [[Spells/Pure Types/Space/Space\|Space]]-Enhancement-Target-1-Damage-2
 
 Spell Effect: 
-Target makes a Constitution save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], The target then takes 2d6 Bludgeoning Damage plus an additional 2d6 per 5 under theSave.
+Target makes a Constitution save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], The target then takes 2d6 Bludgeoning Damage plus an additional 2d6 per 5 under the Save.
 
 Cooldown:
 Space (4): Damage(2) + Enhancement(1) + Targets(1) - Cha Mod - Wis Mod

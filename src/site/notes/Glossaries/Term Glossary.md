@@ -115,7 +115,7 @@
 - [[Spells/Pure Types/Metal/Metal\|Metal]] - Mt
 - [[Monarchy\|Monarchy]] - Au
 - [[Monster\|Monster]] - Mr
-- [[Plant\|Plant]] - Na
+- [[Spells/Pure Types/Plant/Plant\|Plant]] - Na
 - [[Spells/Pure Types/Space/Space\|Space]] - Ec
 - [[Sound\|Sound]] - So
 - [[Summon\|Summon]] - Sm

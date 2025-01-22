@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/pure-types/light/imbue-light/","tags":["Spell/Light","Spell/Imbue"]}
+{"dg-publish":true,"permalink":"/spells/pure-types/light/imbue-light/","tags":["Spell/Light","Spell/Imbue","Spell/Lingering"]}
 ---
 
 ### Imbue Light

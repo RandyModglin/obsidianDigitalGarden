@@ -18,6 +18,6 @@
 ## Summons and Structures
 
 ## Utility
-
+- [[Spells/Pure Types/Metal/Control Metal\|Control Metal]]
 ## Combined Types
 - [[Spells/Combined Types/Magnetism/Magnetism\|Magnetism]]: [[Spells/Pure Types/Lightning/Lightning\|Lightning]] + Metal
