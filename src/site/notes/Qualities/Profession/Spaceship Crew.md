@@ -53,3 +53,4 @@ Can attempt a maneuver:
 
 Fire missiles:
 	Roll xd20, x being the ships missile count.
+	Missiles lose 10 damage for every 5ft they travel 

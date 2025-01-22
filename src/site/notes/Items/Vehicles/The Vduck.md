@@ -3,7 +3,7 @@
 ---
 
 ## The Vduck
-HP: 510/750
+HP: 490/750
 Armor (DR): 20
 
 Fuel: 100%
