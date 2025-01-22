@@ -6,9 +6,11 @@
 ## Damage Spells
 
 ### Single Target
-
+- [[Spells/Pure Types/Space/Cosmos#Cosmos Rifle\|Cosmos Rifle]]
+- [[Spells/Pure Types/Space/Cosmos#Greater Cosmos Rifle\|Greater Cosmos Rifle]]
 ### AOE
-
+- [[Spells/Pure Types/Space/Cosmos#Cosmos Burst\|Cosmos Burst]]
+- [[Spells/Pure Types/Space/Cosmos#Greater Cosmos Burst\|Greater Cosmos Burst]]
 ## Enhancements
 - [[Spells/Pure Types/Space/Imbue Cosmos\|Imbue Cosmos]]
 
