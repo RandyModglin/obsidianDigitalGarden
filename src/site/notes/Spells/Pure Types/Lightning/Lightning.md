@@ -17,3 +17,5 @@
 
 ## Utility
 - [[Spells/Pure Types/Lightning/Null Volt\|Null Volt]]
+## Combined Types
+- [[Spells/Combined Types/Magnetism/Magnetism\|Magnetism]]: Lightning + [[Spells/Pure Types/Metal/Metal\|Metal]]

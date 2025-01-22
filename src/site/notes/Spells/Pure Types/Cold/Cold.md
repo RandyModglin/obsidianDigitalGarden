@@ -14,7 +14,7 @@
 - [[Spells/Pure Types/Cold/Chill#Greater Chill Burst\|Greater Chill Burst]]
 - [[Spells/Pure Types/Metal/Hemaphagy Chill#Hemaphagy Chill Burst\|Hemaphagy Chill Burst]]
 ## Enhancements
-
+- [[Spells/Pure Types/Cold/Freezing Arrow\|Freezing Arrow]]
 ## Summons and Structures
 
 ## Utility

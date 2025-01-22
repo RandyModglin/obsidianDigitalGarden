@@ -20,4 +20,4 @@
 ## Utility
 
 ## Combined Types
-- [[Magnetic\|Magnetic]]: [[Spells/Pure Types/Lightning/Lightning\|Lightning]] + Metal
+- [[Spells/Combined Types/Magnetism/Magnetism\|Magnetism]]: [[Spells/Pure Types/Lightning/Lightning\|Lightning]] + Metal
