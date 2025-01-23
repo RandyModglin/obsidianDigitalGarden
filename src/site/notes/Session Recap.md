@@ -5,7 +5,7 @@
 ## 1/21/25
 The Space Pirates were then able to get a call out for reinforcement. Another cruiser and 2 small small fighters.
 
-Alune left the cockpit to fight off the robots swarming the ship
+Alune left the cockpit to fight off the robots swarming the ship, killing them by the dozens.
 
 Cole, Faye, and Tarrow worked together to destroy the remaining Pirate vessels, though taking heavy damage to the ship in the process.
 
@@ -16,7 +16,7 @@ While the ship is being upgraded, Alune and Cole explore Gastrea Station. They f
 
 Randy goes to oversee the repairs (and to make sure Magus doesn’t eat anybody). He ends up grilling Cole and Alune about letting him sell his eye to Amandi.
 
-Left unsupervised, Amandi and Faye steal a cheetah’s Tail from the zoo. The party is forced to make a panicked get away.
+Left unsupervised, Amandi and Faye steal a cheetah’s Tail from the zoo. The party is forced to make a panicked get away from Gastrea Station.
 
 A couple days pass while the group travels to a system near Astra to hunt for pirates.
 
@@ -28,9 +28,11 @@ After Blowing up one of the ships, the group accidently wandered into an enemy m
 
 ## 1/7/25
 
-The group finally reaches Gastrea Station.
+The group finally reaches Gastrea Station. 
 
-It turns out to be a large space station owned by the Galactic Federal Authority where many dock. It features many official Government buildings, along with a full zoo.
+Upon landing, RAT tests a new spell to help defend the ship (and hopefully solve his loneliness problem), but ends up accidently summoning a [[Glossaries/Catalogue of Monsters#Deep Hunter\|Deep Hunter]], a Huge Lava Shark from [[Lore/Previous Games/TerraMors\|TerraMors]]. RAT decides to name it Magus.
+
+Gastrea Station turns out to be a large space station owned by the Galactic Federal Authority where many travelers dock. It features many official Government buildings, along with a full zoo.
 
 The crew needs gas, but discovers their left over money from floor 1 is worthless, and they’ll need to get Galactic Forces Coinage from the Department of Commerce in order to get the fuel they need to get to Astra.
 
