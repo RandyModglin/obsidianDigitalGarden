@@ -40,10 +40,22 @@ The group heads to the Department of Commerce building where they discover a str
 
 At first the mysterious woman buys the Ore and Robot parts (and RAT’s eye) from the party to get them the necessary fuel for their journey, however she takes a special interest in the parties strange behaviors and final destination, and offers to help them get to Astra.
 
-It turns out Astra station has started a rebellion against the GFA and no one is allowed in or out, however the woman says she can get the party past the blockade, if they bring her with and help her track down some special artifacts. She also hires on RAT to be her personal Bodyguard.
+It turns out Astra station has started a rebellion against the GFA and no one is allowed in or out, however the woman says she can get the party past the blockade, if they bring her with and help her track down some special artifacts. She also hires on RAT (and later Faye) to be her personal Bodyguards.
 
 ## 1/2/25
-Terrorism
+Cole and Alune are discussing a disturbing revelation given to Cole by [[Characters/Gods/Domain Gods/Life Domain Gods#Ara\|Ara]]. She informed him that when they had traveled from floor 1 to floor 3, half of RAT’s soul had been torn away and formed a full new soul that they had left behind on Floor 1. He also learned that time passes very differently between the floors, with potentially years having already passed since they’d been gone.
+
+Just as they make a plan of what to do, the Vduck falls out of the hyperlane, and a voice comes over the ship’s intercom.
+
+The 4th Soul inside RAT’s body had taken over after they were left alone in the cockpit. It attempted to strand the group in deep space, and had filled the cockpit with bombs that would destroy the ship and themselves if anyone attempted to get them back on track.
+
+He claimed it was unfair that the group had left him to sit inside his Soul Crystal after the operation that created RAT on floor 1, and now he would get even by making the group drift through deep space.
+
+Faye offered to beat the snot out of the 4th soul for pulling a stunt like this, positing they could likely find a way around the bombs and looking to protect their new-born child.
+
+Alune attempted to reason with the Soul, trying to apologize and empathize, but this only made them angrier.
+
+Finally, the group decided to tell the Soul about it’s floor 1 counterpart, and it agreed to let them go in return for them all going to floor 1 to make right what they did.
 
 ## 12/26/24
 
