@@ -10,7 +10,7 @@
 ### AOE
 
 ## Enhancements
-- [[Spells/Pure Types/Knowledge/Imbue Sage Mark\|Imbue Sage Mark]]
+- [[Spells/Pure Types/Knowledge/Imbue Scholar Mark\|Imbue Scholar Mark]]
 ## Summons and Structures
 
 ## Utility

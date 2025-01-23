@@ -105,7 +105,7 @@
 - [[Spells/Pure Types/Fire/Fire\|Fire]] - Hy
 - [[Spells/Pure Types/Ground/Ground\|Ground]] - Gr
 - Hate - Ra
-- [[Holy\|Holy]] - An
+- [[Spells/Pure Types/Holy/Holy\|Holy]] - An
 - [[Illusion\|Illusion]] - Il 
 - [[Spells/Pure Types/Knowledge/Knowledge\|Knowledge]] - Hi
 - [[Spells/Pure Types/Light/Light\|Light]] - Mi

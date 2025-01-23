@@ -7,6 +7,7 @@
 - ### [[Spells/Pure Types/Disease/Disease\|Disease]]
 - ### [[Spells/Pure Types/Fire/Fire\|Fire]]
 - ### [[Spells/Pure Types/Ground/Ground\|Ground]]
+- ### [[Spells/Pure Types/Holy/Holy\|Holy]]
 - ### [[Spells/Pure Types/Knowledge/Knowledge\|Knowledge]]
 - ### [[Spells/Pure Types/Life/Life\|Life]]
 - ### [[Spells/Pure Types/Light/Light\|Light]]
