@@ -14,7 +14,7 @@
 - [[Spells/Pure Types/Fire/Flare#Greater Flare Burst\|Greater Flare Burst]]
 - [[Spells/Pure Types/Metal/Hemaphagy Flare#Hemaphagy Flare Burst\|Hemaphagy Flare Burst]]
 ## Enhancements
-
+- [[Spells/Pure Types/Fire/Imbue Flare\|Imbue Flare]]
 ## Summons and Structures
 
 ## Utility
