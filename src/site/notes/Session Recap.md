@@ -14,7 +14,7 @@ The woman , introducing herself as Amandi, offers to pay for upgrades to the gro
 
 While the ship is being upgraded, Alune and Cole explore Gastrea Station. They find specialty audio equipment and recording devices and Alune is pumped.
 
-Randy goes to oversee the repairs (and to make sure Magus doesn’t eat anybody). He ends up grilling Cole and Alune about letting him sell his eye to Amandi.
+Randy goes to oversee the repairs (and to make sure Magus doesn’t eat anybody). He ends up grilling Cole and Alune about letting him sell his eye to Amandi. Alune takes this really hard, locking herself in her quarters for several days.
 
 Left unsupervised, Amandi and Faye steal a cheetah’s Tail from the zoo. The party is forced to make a panicked get away from Gastrea Station.
 
