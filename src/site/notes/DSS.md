@@ -9,6 +9,7 @@
 - ## [[Rituals/Rituals\|Rituals]]
 - ## [[Spells/Spells\|Spells]]
 # Glossaries
+- ## [[Glossaries/Catalogue of Monsters\|Catalogue of Monsters]]
 - ## [[Glossaries/Conditions Glossary\|Conditions Glossary]]
 - ## [[Glossaries/Infections Glossary\|Infections Glossary]]
 - ## [[Glossaries/Term Glossary\|Term Glossary]]
