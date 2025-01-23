@@ -42,6 +42,8 @@ At first the mysterious woman buys the Ore and Robot parts (and RAT’s eye) fro
 
 It turns out Astra station has started a rebellion against the GFA and no one is allowed in or out, however the woman says she can get the party past the blockade, if they bring her with and help her track down some special artifacts. She also hires on RAT (and later Faye) to be her personal Bodyguards.
 
+Despite the recent fiasco, RAT is entrusted by the group to travel with the woman to get the ship’s fuel. A test to make sure he can be alone without transforming.
+
 ## 1/2/25
 Cole and Alune are discussing a disturbing revelation given to Cole by [[Characters/Gods/Domain Gods/Life Domain Gods#Ara\|Ara]]. She informed him that when they had traveled from floor 1 to floor 3, half of RAT’s soul had been torn away and formed a full new soul that they had left behind on Floor 1. He also learned that time passes very differently between the floors, with potentially years having already passed since they’d been gone.
 
@@ -55,7 +57,9 @@ Faye offered to beat the snot out of the 4th soul for pulling a stunt like this,
 
 Alune attempted to reason with the Soul, trying to apologize and empathize, but this only made them angrier.
 
-Finally, the group decided to tell the Soul about it’s floor 1 counterpart, and it agreed to let them go in return for them all going to floor 1 to make right what they did.
+Finally, the group decided to tell the Soul about it’s floor 1 counterpart, and it agreed to let them go in return for them all going to floor 1 to make right what they did. The soul passes out.
+
+RAT reawakens later, offering his full apologies to every member of the group.
 
 ## 12/26/24
 
