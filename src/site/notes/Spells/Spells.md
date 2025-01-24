@@ -3,6 +3,7 @@
 ---
 
 # Spells By Type:
+- ### [[Spells/Pure Types/Beast/Beast\|Beast]]
 - ### [[Spells/Pure Types/Cold/Cold\|Cold]]
 - ### [[Spells/Pure Types/Disease/Disease\|Disease]]
 - ### [[Spells/Pure Types/Fire/Fire\|Fire]]
