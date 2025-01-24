@@ -9,6 +9,7 @@
 - [[Spells/Pure Types/Metal/Hemaphagy Chill#Hemaphagy Chill Strike\|Hemaphagy Chill Strike]]
 - [[Spells/Pure Types/Metal/Hemaphagy Volt#Hemaphagy Volt Strike\|Hemaphagy Volt Strike]]
 ### AOE
+- [[Spells/Pure Types/Metal/Gigantes Spike\|Gigantes Spike]]
 - [[Spells/Pure Types/Metal/Ferrous#Greater Ferrous Burst\|Greater Ferrous Burst]]
 - [[Spells/Pure Types/Metal/Hemaphagy Chill#Hemaphagy Chill Burst\|Hemaphagy Chill Burst]]
 - [[Spells/Pure Types/Metal/Hemaphagy Flare#Hemaphagy Flare Burst\|Hemaphagy Flare Burst]]
