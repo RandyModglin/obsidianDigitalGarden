@@ -118,7 +118,7 @@
 - [[Spells/Pure Types/Plant/Plant\|Plant]] - Na
 - [[Spells/Pure Types/Space/Space\|Space]] - Ec
 - [[Sound\|Sound]] - So
-- [[Summon\|Summon]] - Sm
+- [[Spells/Pure Types/Summon/Summon\|Summon]] - Sm
 - [[Spells/Pure Types/Time/Time\|Time]] - Ar
 - [[Spells/Pure Types/Water/Water\|Water]] - Li
 - [[Weather\|Weather]] - Cl

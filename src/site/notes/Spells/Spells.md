@@ -15,6 +15,7 @@
 - ### [[Spells/Pure Types/Metal/Metal\|Metal]]
 - ### [[Spells/Pure Types/Plant/Plant\|Plant]]
 - ### [[Spells/Pure Types/Space/Space\|Space]]
+- ### [[Spells/Pure Types/Summon/Summon\|Summon]]
 - ### [[Spells/Pure Types/Time/Time\|Time]]
 - ### [[Spells/Pure Types/Water/Water\|Water]]
 
