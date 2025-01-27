@@ -16,6 +16,7 @@ Space (0):
 
 ### Cosmos Trail: Stasis Barricade
 Home Rule: None
+NOTE: This spell can not increase the Space within the area by more than 10
 
 Notation: Ec-Ar-Slow-xh-In-x0x-Ae-Ln-xfx
 Formula: [[Spells/Pure Types/Space/Space\|Space]]-[[Spells/Pure Types/Time/Time\|Time]]-Slow-3-Increase-10-Area-Line-40
@@ -25,5 +26,4 @@ User creates a 40ft line in which every square takes 10 ft more of movement to m
 
 Cooldown:
 Space (1): Condition(1) - Wis Mod
-
-NOTE: This spell can not increase the Space within the area by more than 10
+Time (1): Condition(1) - Wis Mod
