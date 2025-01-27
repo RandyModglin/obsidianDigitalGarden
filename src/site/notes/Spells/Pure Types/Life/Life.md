@@ -16,5 +16,6 @@
 
 ## Utility
 - [[Spells/Pure Types/Life/Free Heart\|Free Heart]]
+- \[Spell Focus: [[Monarchy\|Monarchy]]\] [[Spells/Pure Types/Life/Inflict Rebellion\|Inflict Rebellion]]
 - [[Spells/Pure Types/Life/Restore#Restore Burst\|Restore Burst]]
 - [[Spells/Pure Types/Life/Spoonful of Medicine\|Spoonful of Medicine]]

@@ -18,6 +18,7 @@
 - [[Spells/Pure Types/Space/Toll Bridge#Toll Bridge; Payment Speed\|Toll Bridge; Payment Speed]]
 ## Utility
 - [[Spells/Pure Types/Space/Cosmos Trail#Cosmos Trail Warp\|Cosmos Trail: Warp]]
+- [[Spells/Pure Types/Space/Null Cosmos\|Null Cosmos]]
 
 ## Combined Types
 - [[Spells/Combined Types/Gravity/Gravity\|Gravity]]: [[Spells/Pure Types/Ground/Ground\|Ground]] + Space
