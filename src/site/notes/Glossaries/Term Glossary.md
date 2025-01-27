@@ -93,7 +93,7 @@
 
 ## Type
 - [[Acid\|Acid]] - Ad
-- Anti-Magic - Hm
+- [[Anti\|Anti]] - Hm
 - [[Spells/Pure Types/Beast/Beast\|Beast]] - Go
 - [[Blood\|Blood]] - Pa
 - Change - Dp
