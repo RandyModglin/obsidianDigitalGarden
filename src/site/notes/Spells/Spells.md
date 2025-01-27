@@ -22,6 +22,7 @@
 
 # Spells By Combined Type:
 - #### [[Spells/Combined Types/Crystal/Crystal\|Crystal]] ([[Spells/Pure Types/Ground/Ground\|Ground]] + [[Spells/Pure Types/Light/Light\|Light]])
+- #### [[Spells/Combined Types/Gravity/Gravity\|Gravity]] ([[Spells/Pure Types/Ground/Ground\|Ground]] + [[Spells/Pure Types/Space/Space\|Space]])
 - #### [[Spells/Combined Types/Ice/Ice\|Ice]] ([[Spells/Pure Types/Cold/Cold\|Cold]] + [[Spells/Pure Types/Water/Water\|Water]])
 - #### [[Spells/Combined Types/Magnetism/Magnetism\|Magnetism]] ([[Spells/Pure Types/Metal/Metal\|Metal]] + [[Spells/Pure Types/Lightning/Lightning\|Lightning]])
 - #### [[Spells/Combined Types/Reality/Reality\|Reality]] ([[Spells/Pure Types/Space/Space\|Space]] + [[Spells/Pure Types/Time/Time\|Time]])

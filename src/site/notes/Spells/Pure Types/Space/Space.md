@@ -20,4 +20,5 @@
 - [[Spells/Pure Types/Space/Cosmos Trail#Cosmos Trail Warp\|Cosmos Trail: Warp]]
 
 ## Combined Types
+- [[Spells/Combined Types/Gravity/Gravity\|Gravity]]: [[Spells/Pure Types/Ground/Ground\|Ground]] + Space
 - [[Spells/Combined Types/Reality/Reality\|Reality]]: Space + [[Spells/Pure Types/Time/Time\|Time]]

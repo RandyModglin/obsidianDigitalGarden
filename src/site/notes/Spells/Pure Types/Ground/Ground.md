@@ -21,3 +21,4 @@
 - - -
 ## Combined Types
 - [[Spells/Combined Types/Crystal/Crystal\|Crystal]]: Ground + [[Spells/Pure Types/Light/Light\|Light]]
+- [[Spells/Combined Types/Gravity/Gravity\|Gravity]]: Ground + [[Spells/Pure Types/Space/Space\|Space]]
