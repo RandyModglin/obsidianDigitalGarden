@@ -8,7 +8,7 @@
 ### Single Target
 
 ### AOE
-- [[Spells/Combined Types/Ice/Greater Frost\|Greater Pure Frost Burst]]
+- [[Spells/Combined Types/Ice/Frost\|Greater Pure Frost Burst]]
 ## Enhancements
 - [[Spells/Combined Types/Ice/Imbue Frost#Imbue Frost\|Imbue Frost]]
 - [[Spells/Combined Types/Ice/Imbue Frost#Imbue Pure Frost\|Imbue Pure Frost]]

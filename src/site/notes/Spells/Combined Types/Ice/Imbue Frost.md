@@ -26,3 +26,4 @@ Imbue a target with Ice and Water, adding 2d6 Water Damage to their attacks. If 
 
 Cooldown:
 Water (4): Damage(2) + Enhancement (1) + Targets(1) - Cha Mod - Wis Mod
+Cold 4): Damage(2) + Enhancement (1) + Targets(1) - Cha Mod - Wis Mod

@@ -6,9 +6,10 @@
 ## Damage Spells
 
 ### Single Target
+-  [[Spells/Combined Types/Reality/Distortion#Greater Pure Distortion Missile\|Greater Pure Distortion Missile]]
 
 ### AOE
-- [[Spells/Combined Types/Reality/Greater Distortion#Greater Pure Distortion Burst\|Greater Pure Distortion Burst]]
+- [[Spells/Combined Types/Reality/Distortion#Greater Pure Distortion Burst\|Greater Pure Distortion Burst]]
 
 ## Enhancements
 

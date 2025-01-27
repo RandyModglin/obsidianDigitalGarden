@@ -13,3 +13,4 @@
 - Tinkerer's Glasses
 - 3 Engineering Toolboxes
 - 4 Plunder Bots
+- 10 Human Souls
