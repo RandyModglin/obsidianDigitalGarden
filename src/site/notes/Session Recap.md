@@ -2,6 +2,18 @@
 {"dg-publish":true,"permalink":"/session-recap/"}
 ---
 
+## 1/25/25
+After defeating the last of the pirates, the group split up around the ship to handle the aftermath.
+- Tarrow used the Vduck’s nets to collect Wreckage from the destroyed ships, collecting many lost souls.
+- Amandi offered Faye some upgrades to improve her combat effectiveness, including giving her Tarrow’s eye.
+- Alune and Cole spoke in private about more of her concerning visions from their shared deity, [[Characters/Gods/Domain Gods/Life Domain Gods#Ara\|Ara]].
+
+After regrouping, the crew set out towards the Pirate’s base to find the relic Amandi sought. Tarrow, Faye, and Cole sat in the cockpit discussing Tarrow’s history before joining the group, meanwhile Elfie and Ashley split off to repair the ship.
+
+Finally, the group reached a small dessert planet the pirates called home, a massive Metal Structure built into a Canyon. The outside was heavily fortified, so the group tunneled under ground, hoping to breach the compound from below.
+
+However, underneath the pirate base was a massive cave with a ruin. In the otheworld, Cole saw the Shadow People the group saw on floor 1 looking for something in the ruin. However in the real world, the group was attacked by strange creatures.
+
 ## 1/21/25
 The Space Pirates were then able to get a call out for reinforcement. Another cruiser and 2 small small fighters.
 
