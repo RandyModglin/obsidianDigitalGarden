@@ -12,4 +12,4 @@ Result:
 As a Reaction, the user enhances the Bow’s Arrow. A creature hit by the arrow must make a Constitution Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]] or become [[Glossaries/Conditions Glossary#Freeze\|Frozen]].
 
 Cooldown:
-Cold (4): Enhancement(2) + Condition(1) + Targets(1) - Cha Mod - Wis Mod
+Cold (4): Enhancement(2) + Condition(2) + Targets(1) + Int Mod - Cha Mod - Wis Mod

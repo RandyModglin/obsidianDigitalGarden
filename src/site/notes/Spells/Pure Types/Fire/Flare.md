@@ -24,7 +24,7 @@ Spell Effect:
 Deal 2d6 Fire Damage to all creatures in a 10 foot area. Creatures in the Area must make a Constitution Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]] or be [[Glossaries/Conditions Glossary#Burn\|Burned]] and become [[Glossaries/Conditions Glossary#Combust\|Combustible]].
 
 Cooldown:
-Fire (5): Damage(2) + Enhancement(1) + Condition(2) - Wis Mod
+Fire (7): Damage(2) + Enhancement(1) + Condition(4) + 2xInt Mod - Wis Mod
 
 ### Greater Flare Strike
 Home Rules: None
