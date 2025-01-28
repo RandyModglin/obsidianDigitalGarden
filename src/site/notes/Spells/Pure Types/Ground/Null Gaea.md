@@ -12,4 +12,4 @@ Spell Effect:
 User picks a target, The ground within 30ft of the target disappears.
 
 Cooldown
-Ground (1): Enhancement(1) + Targets(1) - Cha Mod - Wis Mod
+Ground (3): Enhancement(1) + Anti(1) + Targets(1) - Cha Mod - Wis Mod

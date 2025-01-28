@@ -14,7 +14,7 @@ Spell Effect:
 User picks a Target, everything within 30ft collapses into that spot. Creatures in the area make a Dexterity Save against your [[Glossaries/System Glossary#Spell DC\|Spell DC]], on failure they move toward the target.
 
 Cooldown:
-Unknown
+Space (2): Enhancement(1) + Anti(1) - Wis Mod
 
 #### V2: Targeted
 Home Rules: None
@@ -28,4 +28,4 @@ User selects a Target and then another. The second Target makes a Dexterity Save
 If they collide the Second Target takes fall damage, the first Target takes half the damage.
 
 Cooldown:
-Unknown
+Space (4): Enhancement(1) + Anti(1) + Targets(2) - Cha Mod - Wis Mod

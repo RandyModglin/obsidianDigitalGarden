@@ -10,7 +10,7 @@ Notation: Ta-Si-In-Tg-By
 Formula: [[Spells/Pure Types/Life/Life\|Life]]-Freedom-Increase-Target-Body
 
 Spell Effect:
-User attempts to free a target from their loyalty to their Monarch. The user makes an Intelligence check against the Targets [[Glossaries/System Glossary#Spell DC\|Spell DC]] . 
+User attempts to free a target from their loyalty to their Monarch. The user makes an Intelligence check against a DC based on the target’s loyalty to the Monarchy.
 
 If the user succeeds then the target is unbound to the monarch they followed, and has no allegiances. This effect will remain in place as long as the user keeps the spell running or until the target makes a Intelligence Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]] at the end of their turn, excluding the first under the influence of the spell. 
 

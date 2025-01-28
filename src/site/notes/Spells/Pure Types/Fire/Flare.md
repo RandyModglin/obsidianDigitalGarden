@@ -5,14 +5,14 @@
 ### Mega Flare Strike
 Home Rules: None
 
-Notation: Hy-Ml-Bu-Tg-x0-Dm-xh-Ma-Hy-Tg-x0-Dm-xh
-Formula: Fire-Enhancement-Burn-Target-1-Damage-3-Combine-Fire-Target-1-Damage-3
+Notation: Hy-Ml-Bu-Tg-x0-Dm-xf-Ma-Hy-Tg-x0-Dm-xf
+Formula: Fire-Enhancement-Burn-Target-1-Damage-4-Combine-Fire-Target-1-Damage-4
 
 Spell Effect: 
-Deal 7d6 Fire Damage to a Target. If the Target is hit, they must make a Constitution Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]] or be [[Glossaries/Conditions Glossary#Burn\|Burned]] and become [[Glossaries/Conditions Glossary#Combust\|Combustible]].
+Deal 9d6 Fire Damage to a Target. If the Target is hit, they must make a Constitution Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]] or be [[Glossaries/Conditions Glossary#Burn\|Burned]] and become [[Glossaries/Conditions Glossary#Combust\|Combustible]].
 
 Cooldown:
-Fire (20): Damage(6) + Enhancement(1) + Condition(2) + Combine(10) + Targets(1) - Cha Mod - Wis Mod
+Fire (24): Damage(8) + Enhancement(1) + Condition(4) + Combine(10) + Targets(1) + 2xInt Mod - Cha Mod - Wis Mod
 
 ### Greater Flare Burst
 Home Rules: None
