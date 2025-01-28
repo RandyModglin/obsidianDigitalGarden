@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spells/pure-types/life/life/"}
 ---
 
-# Cold
+# Life
 ## Damage Spells
 
 ### Single Target
@@ -10,6 +10,12 @@
 ### AOE
 - [[Spells/Pure Types/Life/Biotic#Greater Biotic Burst\|Greater Biotic Burst]]
 
+## Healing Spells
+
+### Single Target
+
+### AOE
+- \[Spell Focus: [[Monarchy\|Monarchy]]\] [[Spells/Pure Types/Life/Light of Blightwind\|Light of Blightwind]]
 ## Enhancements
 
 ## Summons and Structures
