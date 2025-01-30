@@ -2,6 +2,23 @@
 {"dg-publish":true,"permalink":"/session-recap/"}
 ---
 
+## 1/28/25
+Battle with the strange creatures known as Ravengers began. During the battle, Tarrow recklessly rushed into the enemy and was promptly killed. During the combat Cole received a gift from Ara, a goblet containing a permanently burning flame.
+
+After the rest of the group defeated the beasts, they were able to revive Randy, and the group set out to explore the ruins they had found beneath the Pirate Stronghold.
+
+Many of the buildings appeared old and abandoned, but after some searching, the group found a Magic Trapdoor built into one of the buildings. After destroying it, the group found a basement that appeared as dusty and decrepit as the rest of the ruins, but with dustless camping equipment set up within.
+
+Venturing deeper in the basement, the group found a suspicious wall containing bricks, each engraved with the symbol of a different god. After some brute force puzzle solving, the group rearranged the engraved bricks: 
+1. [[Characters/Gods/Three Hopes#Delon\|Delon]] 
+2. Nepoti
+3. An Unknown symbol depicting 2 eyes 
+4. Another Unknown symbol depicting  a circle with a pair of wings in the center and a scythe running through)
+causing a hidden door to open up.
+
+After following it, the door led to a tunnel running directly under the Pirate’s Stronghold. As the group was formulating a plan of attack, a massive hoard of Ravengers burst through the tunnel and into the pirate stronghold.
+
+In the ensuing chaos, the group ran through the base and found a large elaborate door.
 ## 1/25/25
 After defeating the last of the pirates, the group split up around the ship to handle the aftermath.
 - Tarrow used the Vduck’s nets to collect Wreckage from the destroyed ships, collecting many lost souls.
