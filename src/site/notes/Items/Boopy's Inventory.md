@@ -20,3 +20,4 @@
 - Tattered Clothes from Pirate Store Room
 - Portraits from Pirate Store Room
 - Gold Pieces from Pirate Store Room
+- Gold Throne

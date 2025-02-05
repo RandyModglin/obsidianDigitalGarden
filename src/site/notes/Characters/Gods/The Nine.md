@@ -37,7 +37,7 @@ One of [[Characters/Gods/The Nine\|The Nine]] and the original gods of [[Lore/Pr
 One of [[Characters/Gods/The Nine\|The Nine]] and the original gods of [[Lore/Previous Games/TerraMors\|TerraMors]]. They are by far the least understood of [[Characters/Gods/The Nine\|The Nine]], being referred to as “Darkness”, though their real name is unknown.
 
 ## Sin
-One of [[Characters/Gods/The Nine\|The Nine]] and the original gods of [[Lore/Previous Games/TerraMors\|TerraMors]]. While we know little about them, they did leave a note for some of the players of the original [[Lore/Previous Games/TowerMors\|TowerMors]], [[Characters/Players/Randy Modglin\|Randy Modglin]] and [[Characters/Players/Ashley Collison\|Ashley Collison]].
+One of [[Characters/Gods/The Nine\|The Nine]] and the original gods of [[Lore/Previous Games/TerraMors\|TerraMors]]. While we know little about them, they did leave a note for some of the players of the original [[Lore/Previous Games/TowerMors\|TowerMors]], [[Characters/Players/Randy\|Randy]] and [[Characters/Players/Alune\|Alune]].
 ```
 you know exactly who we are…. We’ve been renewed and refined but we are back. I guess we all **change**, right Randy? However I believe it’s a good thing, I just hope Ashley can keep her **lust** in her pants this time. As for the rest of ya, don’t get jealous, i love you all… don’t forget to Sin for me!
 ```
