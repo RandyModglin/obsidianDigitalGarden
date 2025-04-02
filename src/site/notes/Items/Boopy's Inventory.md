@@ -21,3 +21,6 @@
 - Portraits from Pirate Store Room
 - Gold Pieces from Pirate Store Room
 - Gold Throne
+- 6 Bedding Supplies
+- Music Bot
+- Bunch of Amandi’s shit

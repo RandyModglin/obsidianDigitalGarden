@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/items/vehicles/the-car/"}
 ---
 
-Current Tank: 150/150
+Current Tank: 146/150
 Turbo: 4
 
 250 for a Full Tank

@@ -6,7 +6,7 @@
 Species: Robot (d8)
 
 ## Body
-Health: 30/50
+Health: 68/80
 Speed: 30
 Stamina: 10/12
 Armor Class: 29 (12 + 3 DEX + 6 CON + 8 Banner)
@@ -208,8 +208,8 @@ While 2 or more spell types are on Cooldown, reduce spell Cooldowns by 3. If the
 ### Inventory
 - 7 Ducans
 - 7 Chuck-E-Cheese Tokens
-- 7 Persony Soul (Blue)
-- 1 Soul Crystals H-Robit (blue) (2 Question)
+- 2 Persony Soul (Purple)
+  - 1 Persony Soul : 4 Questions
 - 1 Hand Gun (5/6) (0)
 
 - PickAxe
@@ -239,6 +239,8 @@ While 2 or more spell types are on Cooldown, reduce spell Cooldowns by 3. If the
 - Water Poison Rebar
 - Stupid Rebar
 
+- Ghost Knife
+- A Rock
 - - -
 
 # Details
