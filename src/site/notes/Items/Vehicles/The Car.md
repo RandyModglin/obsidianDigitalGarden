@@ -3,7 +3,7 @@
 ---
 
 Current Tank: 146/150
-Turbo: 4
+Turbo: 3/4
 
 250 for a Full Tank
 Squares are 5 Mins by Car

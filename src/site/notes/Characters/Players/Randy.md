@@ -184,7 +184,7 @@ Have Home Cast a spell (50)
 
 While 2 or more spell types are on Cooldown, reduce spell Cooldowns by 3. If there’s 5 or more types on Cooldown, reduce all spells Cooldown by 5. Spells that have their cooldowns reduced to 0 in this way add a counter. 
 
-## Weapons & Equipment
+# Weapons & Equipment
 
 ### Weapons:
 
@@ -236,11 +236,10 @@ While 2 or more spell types are on Cooldown, reduce spell Cooldowns by 3. If the
 - 5 Days for Group Rations (-2 Individual Rations)
 - Veil of Barnaby (Vision Behind me)
 
-- Water Poison Rebar
-- Stupid Rebar
+- The Knife that ghost threw at me
+- A Rock from Cole
 
-- Ghost Knife
-- A Rock
+- 1 Myca Nut
 - - -
 
 # Details

@@ -13,6 +13,9 @@ Ya’ak (???)
 Wasteland Survivor Rosie (Female [[Species/Humans\|Human]])
 1436, The Short One (Home Fairy)
 
+John, The Customer Service Worker (Male [[Species/Humans\|Human]])
+Governor 
+
 ### Floor 3
 GFC Military Investigator Salem (Male ???)
 Amandy “Madam Creep” (Female ???)
