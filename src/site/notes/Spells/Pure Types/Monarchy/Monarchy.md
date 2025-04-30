@@ -10,6 +10,7 @@
 ### AOE
 
 ## Enhancements
+- [[Spells/Pure Types/Monarchy/Regal Shroud\|Regal Shroud]]
 - [[Spells/Pure Types/Monarchy/Tyrant's Banner\|Tyrant's Banner]]
 ## Summons and Structures
 

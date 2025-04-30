@@ -9,7 +9,7 @@ Notation: Ml-Na-Hd-xf-Tg-Hr-Gv-Sp-Dm-xh-Ma-Ml-Na-Gv-Ef-En
 Formula:  Enhancement-[[Spells/Pure Types/Plant/Plant\|Plant]]-Harden-4-Target-Hammer-Give-Spike-Damage-3-Combine-Enhancement-[[Spells/Pure Types/Plant/Plant\|Plant]]-Give-Effect-(Entangle)
 
 Spell Effect: ***Lingering*** 
-User targets a Hammer and grants it the ability to [[Glossaries/Conditions Glossary#Entangled\|Entangle]] creatures hit with a Constitution Save against your[[Glossaries/System Glossary#Spell DC\|Spell Condition DC]]. The hammer also grows thorny spikes that deal 3d6 Piercing Damage, and grants the Hammer [[Glossaries/Conditions Glossary#Hardened X\|Harden 4]]. 
+User targets a Hammer and grants it the ability to [[Glossaries/Conditions Glossary#Entangled\|Entangle]] creatures hit with a Constitution Save against your [[Glossaries/System Glossary#Spell DC\|Spell Condition DC]]. The hammer also grows thorny spikes that deal 3d6 Piercing Damage, and grants the Hammer [[Glossaries/Conditions Glossary#Hardened X\|Harden 4]]. 
 
 Cooldown: 
 Plant (18): Damage (3) + Enhancement(2) + Conditions(2) + Combine(10) + Targets(1) - Cha Mod - Wis Mod
