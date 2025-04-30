@@ -23,7 +23,7 @@ Formula: Hm-Ml-Ec-Tg-x0-Tg-x0
 Formula: [[Anti\|Anti]]-Enhancement-[[Spells/Pure Types/Space/Space\|Space]]-Target-One-Target-One
 
 Spell Effect:
-User selects a Target and then another. The second Target makes a Dexterity Save against your [[Glossaries/System Glossary#Spell DC\|Spell DC]] or falls towards the first Yarget. 
+User selects a Target and then another. The second Target makes a Dexterity Save against your [[Glossaries/System Glossary#Spell DC\|Spell DC]] or falls towards the first Target. 
 
 If they collide the Second Target takes fall damage, the first Target takes half the damage.
 

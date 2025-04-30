@@ -115,7 +115,7 @@
 - [[Spells/Pure Types/Life/Life\|Life / Healing]] - Ta
 - Love - Em
 - [[Spells/Pure Types/Metal/Metal\|Metal]] - Mt
-- [[Monarchy\|Monarchy]] - Au
+- [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]] - Au
 - [[Monster\|Monster]] - Mr
 - [[Spells/Pure Types/Plant/Plant\|Plant]] - Na
 - [[Spells/Pure Types/Space/Space\|Space]] - Ec

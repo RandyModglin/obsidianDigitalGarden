@@ -14,6 +14,7 @@
 - ### [[Spells/Pure Types/Light/Light\|Light]]
 - ### [[Spells/Pure Types/Lightning/Lightning\|Lightning]]
 - ### [[Spells/Pure Types/Metal/Metal\|Metal]]
+- ### [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]]
 - ### [[Spells/Pure Types/Plant/Plant\|Plant]]
 - ### [[Spells/Pure Types/Space/Space\|Space]]
 - ### [[Spells/Pure Types/Summon/Summon\|Summon]]

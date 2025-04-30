@@ -5,7 +5,7 @@
 ### Inflict Rebellion
 Home Rules: None
 
-Spell Focus: [[Monarchy\|Monarchy]] - (Au)
+Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]] - (Au)
 Notation: Ta-Si-In-Tg-By 
 Formula: [[Spells/Pure Types/Life/Life\|Life]]-Freedom-Increase-Target-Body
 

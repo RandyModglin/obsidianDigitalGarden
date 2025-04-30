@@ -13,4 +13,4 @@
 ## Summons and Structures
 
 ## Utility
-- \[Spell Focus: [[Monarchy\|Monarchy]]\] [[Spells/Pure Types/Disease/Death of the Monarch\|Death of the Monarch]]
+- \[Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]]\] [[Spells/Pure Types/Disease/Death of the Monarch\|Death of the Monarch]]

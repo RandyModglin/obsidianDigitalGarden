@@ -5,7 +5,7 @@
 ### Tyrant’s Gravity Crush
 Home Rules: None
 
-Spell Focus: [[Monarchy\|Monarchy]] - (Au)
+Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]] - (Au)
 Notation: Ec-Ml-Sl-xh-Ae-Ci-xhx-Dm-xt-Ma-Gr-Ml-Ae-Ci-xhx-Dm-xt
 Formula: [[Spells/Pure Types/Space/Space\|Space]]-Enhancement-Slow-3-Area-Circle-30-Damage-2-Combine-[[Spells/Pure Types/Ground/Ground\|Ground]]-Enhancement-Area-Circle-30-Damage-2
 

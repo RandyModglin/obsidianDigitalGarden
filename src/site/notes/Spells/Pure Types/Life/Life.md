@@ -15,13 +15,13 @@
 ### Single Target
 
 ### AOE
-- \[Spell Focus: [[Monarchy\|Monarchy]]\] [[Spells/Pure Types/Life/Light of Blightwind\|Light of Blightwind]]
+- \[Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]]\] [[Spells/Pure Types/Life/Light of Blightwind\|Light of Blightwind]]
 ## Enhancements
 
 ## Summons and Structures
 
 ## Utility
 - [[Spells/Pure Types/Life/Free Heart\|Free Heart]]
-- \[Spell Focus: [[Monarchy\|Monarchy]]\] [[Spells/Pure Types/Life/Inflict Rebellion\|Inflict Rebellion]]
+- \[Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]]\] [[Spells/Pure Types/Life/Inflict Rebellion\|Inflict Rebellion]]
 - [[Spells/Pure Types/Life/Restore#Restore Burst\|Restore Burst]]
 - [[Spells/Pure Types/Life/Spoonful of Medicine\|Spoonful of Medicine]]

@@ -5,7 +5,7 @@
 ### Inflict Rebellion
 Home Rules: None
 
-Spell Focus: [[Monarchy\|Monarchy]] - (Au)
+Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]] - (Au)
 Notation: (Ta-Mi-In-Re-xf)-Mx-(Pe-If-Dv-Mi-In)-Tg-x0
 Formula: ([[Spells/Pure Types/Life/Life\|Life]]-[[Spells/Pure Types/Light/Light\|Light]]-Increase-Restoration-4)-Mix-([[Spells/Pure Types/Disease/Disease\|Disease]]-Infect-divide-enhancement-increase)-Target-1
 

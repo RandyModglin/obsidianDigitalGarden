@@ -8,7 +8,7 @@
 ### Single Target
 
 ### AOE
-- \[Spell Focus: [[Monarchy\|Monarchy]]\] [[Spells/Combined Types/Gravity/Gravity Crush#Tyrant’s Gravity Crush\|Tyrant’s Gravity Crush]]
+- \[Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]]\] [[Spells/Combined Types/Gravity/Gravity Crush#Tyrant’s Gravity Crush\|Tyrant’s Gravity Crush]]
 
 ## Enhancements
 

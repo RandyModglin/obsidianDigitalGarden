@@ -15,6 +15,7 @@
 - [[Spells/Pure Types/Metal/Hemaphagy Flare#Hemaphagy Flare Burst\|Hemaphagy Flare Burst]]
 ## Enhancements
 - [[Spells/Pure Types/Fire/Imbue Flare\|Imbue Flare]]
+- [[Spells/Pure Types/Fire/Imbue Fire's Freedom\|Imbue Fire's Freedom]]
 ## Summons and Structures
 
 ## Utility

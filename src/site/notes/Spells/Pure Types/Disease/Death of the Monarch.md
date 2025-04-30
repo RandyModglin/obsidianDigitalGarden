@@ -5,9 +5,9 @@
 ### Death of the Monarch
 Home Rules: None
 
-Spell Focus: [[Monarchy\|Monarchy]] - (Au)
+Spell Focus: [[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]] - (Au)
 Notation: Ml-Pe-Ra-In-Ae-Ae-Ci-xhx-Tg-Au
-Formula: Enhancement-[[Spells/Pure Types/Disease/Disease\|Disease]]-Hate-Increase-Area-Circle-30-Target-[[Monarchy\|Monarchy]]
+Formula: Enhancement-[[Spells/Pure Types/Disease/Disease\|Disease]]-Hate-Increase-Area-Circle-30-Target-[[Spells/Pure Types/Monarchy/Monarchy\|Monarchy]]
 
 Result:
 User selects an area of followers to become ‘Traitors’, the targets will make a  save based on the time frame the user wants to have a mutiny against the monarch done. 
