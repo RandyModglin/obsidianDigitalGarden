@@ -28,11 +28,11 @@ Space (4): Damage(2) + Enhancement(1) + Targets(1) - Cha Mod - Wis Mod
 ### Cosmos Burst
 Home Rules: None
 
-Notation:Hy-Bu-Ae-Ci-x0x-Dm-xt
-Formula: [[Spells/Pure Types/Fire/Fire\|Fire]]-Burn-Area-Circle-10-Damage-2
+Notation: Ec-Ae-Ci-xhx-Dm-x0 
+Formula: [[Spells/Pure Types/Space/Space\|Space]]-Area-Circle-30-Damage-1
 
 Spell Effect: 
-User deals 2d6 Force damage to creatures in a 30ft Area. Creatures then make a Constitution save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], the target is then pushed 5ft +5ft for every 3 under the Save.
+User deals 2d6 Force damage to creatures in a 30ft Area. Creatures then make a Dexterity save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], the target is then pushed 5ft +5ft for every 3 under the Save.
 
 Cooldown: 
 Space (2): Damage(2) - Wis Mod
@@ -44,7 +44,7 @@ Notation: Ec-Ml-Tg-x0-Dm-xt
 Formula: [[Spells/Pure Types/Space/Space\|Space]]-Enhancement-Target-1-Damage-2
 
 Spell Effect: 
-User deals 2d6 Force Damage to target. The target makes a Constitution Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], if they fail they are knocked back 5 ft +5ft for every 3  under the Save.
+User deals 2d6 Force Damage to target. The target makes a DexteritySave against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], if they fail they are knocked back 5 ft +5ft for every 3  under the Save.
 
 Cooldown:
 Space (3): Damage(2) + Targets(1) - Cha Mod - Wis Mod

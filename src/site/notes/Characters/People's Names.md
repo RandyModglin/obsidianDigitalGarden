@@ -12,9 +12,11 @@ Ya’ak (???)
 ### Floor 1
 Wasteland Survivor Rosie (Female [[Species/Humans\|Human]])
 1436, The Short One (Home Fairy)
+Darvin, That one Magician guy
+
 
 John, The Customer Service Worker (Male [[Species/Humans\|Human]])
-Governor 
+Governor Billy Dawnsol
 
 ### Floor 3
 GFC Military Investigator Salem (Male ???)

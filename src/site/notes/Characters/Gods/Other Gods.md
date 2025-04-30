@@ -19,7 +19,7 @@ Over many years, Hike has come to be a librarian of historical events and a scho
 ### Demi and Phoebe
 The Twin Goddesses of Change and a pair of gods created by [[Characters/Gods/Seven Lights#Mainell\|Mainell]]. They were created to ensure things never remain the same, even each other. They love to create new things or make old things new. Always testing new and different ways to make things. 
 
-It is of note that these two are characters with significance outside of the world of towers, appearing as NPCs in [[Lore/Previous Games/TerraMors\|TerraMors]], as adopted children of one of the players [[Characters/Players/Randy\|Randy]]. Give that the plot of [[Lore/Previous Games/TowerMors\|TowerMors]] centered on the idea of [[Characters/Players/Michael\|Michael]] and his friends being transported to a fantasy world he had created, as well as the appearance of other [[Lore/Previous Games/TerraMors\|TerraMors]] characters such as [[Characters/Gods/The Nine\|The Nine]], it is unclear how they came to be.
+It is of note that these two are characters with significance outside of the world of towers, appearing as NPCs in [[Lore/Previous Games/TerraMors\|TerraMors]], as adopted children of one of the players [[Characters/Players/Randy/Randy\|Randy]]. Give that the plot of [[Lore/Previous Games/TowerMors\|TowerMors]] centered on the idea of [[Characters/Players/Michael\|Michael]] and his friends being transported to a fantasy world he had created, as well as the appearance of other [[Lore/Previous Games/TerraMors\|TerraMors]] characters such as [[Characters/Gods/The Nine\|The Nine]], it is unclear how they came to be.
 
 - - -
 ## Unknown Origins
