@@ -12,7 +12,7 @@ Formula: ([[Spells/Pure Types/Life/Life\|Life]]-[[Spells/Pure Types/Light/Light\
 Spell Effect: ***Lingering***
 The User chooses a Monarch and targets them with a Blighted Light. The target receives Restores 4d6 Health and makes a Constitution Save against the user’s [[Glossaries/System Glossary#Spell DC\|Spell DC]], on failure the target becomes Diseased and beings to produce the light, dividing the Light Health gained by 2 to another target. This process repeats until the healing is less then 1 or a save is made. 
 
-Each time the spell bounces to a blighted target, this spell will begin to corrupt the target, adding Flesh to robotic bodies, and having the skin  organic creatures develop boils and pus and start decaying away. 
+Each time the spell bounces to a blighted target, this spell will begin to corrupt the target, adding Flesh to robotic bodies, and having the skin of organic creatures develop boils and pus and start decaying away. 
 
 If the corrupted creature hits a target with a physical melee attack they can spread this rotting, decaying, infected flesh to the target. Both the initial and infected creature grow more boils and pus and start to view [[Characters/Gods/Other Gods#Demi and Phoebe\|Demi and Phoebe]] more favorably, and then subsequently each other. 
 

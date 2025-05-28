@@ -11,8 +11,8 @@
 - Surgical Laser
 - Extraction Glove
 - Tinkerer's Glasses
-- 3 Engineering Toolboxes
-- 4 Plunder Bots
+- 2 Engineering Toolboxes
+- 3 Plunder Bots
 - 10 Human Souls
 - Pirate Corpse
 - GFC from pirate store room
@@ -24,3 +24,4 @@
 - 6 Bedding Supplies
 - Music Bot
 - Bunch of Amandi’s shit
+- 49 Individual Rations
