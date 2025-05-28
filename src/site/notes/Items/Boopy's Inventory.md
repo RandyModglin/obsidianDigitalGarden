@@ -4,7 +4,7 @@
 
 ### Boopy’s Inventory
 - car 
-- My Dead Body
+- Randy’s Dead Body - (Souless Parts)
 - 4 Big Rock
 - Chair
 - Power Saw
@@ -24,4 +24,4 @@
 - 6 Bedding Supplies
 - Music Bot
 - Bunch of Amandi’s shit
-- 49 Individual Rations
+- 48 Individual Rations
