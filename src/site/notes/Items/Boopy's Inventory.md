@@ -15,11 +15,14 @@
 - 3 Plunder Bots
 - 10 Human Souls
 - Pirate Corpse
-- 100 Galactic Federal Credits from pirate store room
-- Jewelery from Pirate Store Room
+- Galactic Federal Chest (1,000,000 Galactic Credit) from pirate store room
+- Jewelry from Pirate Store Room
+	- 2 Bracelets
+	- 5 Rings
+	- 1 Necklace
 - Tattered Clothes from Pirate Store Room
-- Portraits from Pirate Store Room
-- Gold Pieces from Pirate Store Room
+- 3 Portraits from Pirate Store Room
+- 100 Gold Pieces from Pirate Store Room
 - Gold Throne
 - 6 Bedding Supplies
 - Music Bot
